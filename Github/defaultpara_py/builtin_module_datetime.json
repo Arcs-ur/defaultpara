@@ -1,0 +1,130 @@
+[
+    {
+        "function_name": "classdatetime.timedelta(days=0,seconds=0,microseconds=0,milliseconds=0,minutes=0,hours=0,weeks=0)¶",
+        "all_parameters": "days=0,seconds=0,microseconds=0,milliseconds=0,minutes=0,hours=0,weeks=0",
+        "default_parameters": [
+            "days=0",
+            "seconds=0",
+            "microseconds=0",
+            "milliseconds=0",
+            "minutes=0",
+            "hours=0",
+            "weeks=0"
+        ]
+    },
+    {
+        "function_name": "date.replace(year=self.year,month=self.month,day=self.day)¶",
+        "all_parameters": "year=self.year,month=self.month,day=self.day",
+        "default_parameters": [
+            "year=self.year",
+            "month=self.month",
+            "day=self.day"
+        ]
+    },
+    {
+        "function_name": "classdatetime.datetime(year,month,day,hour=0,minute=0,second=0,microsecond=0,tzinfo=None,*,fold=0)¶",
+        "all_parameters": "year,month,day,hour=0,minute=0,second=0,microsecond=0,tzinfo=None,*,fold=0",
+        "default_parameters": [
+            "hour=0",
+            "minute=0",
+            "second=0",
+            "microsecond=0",
+            "tzinfo=None",
+            "fold=0"
+        ]
+    },
+    {
+        "function_name": "classmethoddatetime.now(tz=None)¶",
+        "all_parameters": "tz=None",
+        "default_parameters": [
+            "tz=None"
+        ]
+    },
+    {
+        "function_name": "classmethoddatetime.utcnow()¶",
+        "all_parameters": "",
+        "default_parameters": []
+    },
+    {
+        "function_name": "classmethoddatetime.fromtimestamp(timestamp,tz=None)¶",
+        "all_parameters": "timestamp,tz=None",
+        "default_parameters": [
+            "tz=None"
+        ]
+    },
+    {
+        "function_name": "classmethoddatetime.combine(date,time,tzinfo=time.tzinfo)¶",
+        "all_parameters": "date,time,tzinfo=time.tzinfo",
+        "default_parameters": [
+            "tzinfo=time.tzinfo"
+        ]
+    },
+    {
+        "function_name": "datetime.replace(year=self.year,month=self.month,day=self.day,hour=self.hour,minute=self.minute,second=self.second,microsecond=self.microsecond,tzinfo=self.tzinfo,*,fold=0)¶",
+        "all_parameters": "year=self.year,month=self.month,day=self.day,hour=self.hour,minute=self.minute,second=self.second,microsecond=self.microsecond,tzinfo=self.tzinfo,*,fold=0",
+        "default_parameters": [
+            "year=self.year",
+            "month=self.month",
+            "day=self.day",
+            "hour=self.hour",
+            "minute=self.minute",
+            "second=self.second",
+            "microsecond=self.microsecond",
+            "tzinfo=self.tzinfo",
+            "fold=0"
+        ]
+    },
+    {
+        "function_name": "datetime.astimezone(tz=None)¶",
+        "all_parameters": "tz=None",
+        "default_parameters": [
+            "tz=None"
+        ]
+    },
+    {
+        "function_name": "datetime.isoformat(sep='T',timespec='auto')¶",
+        "all_parameters": "sep='T',timespec='auto'",
+        "default_parameters": [
+            "sep='T'",
+            "timespec='auto'"
+        ]
+    },
+    {
+        "function_name": "classdatetime.time(hour=0,minute=0,second=0,microsecond=0,tzinfo=None,*,fold=0)¶",
+        "all_parameters": "hour=0,minute=0,second=0,microsecond=0,tzinfo=None,*,fold=0",
+        "default_parameters": [
+            "hour=0",
+            "minute=0",
+            "second=0",
+            "microsecond=0",
+            "tzinfo=None",
+            "fold=0"
+        ]
+    },
+    {
+        "function_name": "time.replace(hour=self.hour,minute=self.minute,second=self.second,microsecond=self.microsecond,tzinfo=self.tzinfo,*,fold=0)¶",
+        "all_parameters": "hour=self.hour,minute=self.minute,second=self.second,microsecond=self.microsecond,tzinfo=self.tzinfo,*,fold=0",
+        "default_parameters": [
+            "hour=self.hour",
+            "minute=self.minute",
+            "second=self.second",
+            "microsecond=self.microsecond",
+            "tzinfo=self.tzinfo",
+            "fold=0"
+        ]
+    },
+    {
+        "function_name": "time.isoformat(timespec='auto')¶",
+        "all_parameters": "timespec='auto'",
+        "default_parameters": [
+            "timespec='auto'"
+        ]
+    },
+    {
+        "function_name": "classdatetime.timezone(offset,name=None)¶",
+        "all_parameters": "offset,name=None",
+        "default_parameters": [
+            "name=None"
+        ]
+    }
+]

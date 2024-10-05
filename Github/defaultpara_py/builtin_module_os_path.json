@@ -1,0 +1,17 @@
+[
+    {
+        "function_name": "os.path.realpath(path,*,strict=False)¶",
+        "all_parameters": "path,*,strict=False",
+        "default_parameters": [
+            "strict=False"
+        ]
+    },
+    {
+        "function_name": "os.path.relpath(path,start=os.curdir)¶",
+        "all_parameters": "path,start=os.curdir",
+        "default_parameters": [
+            "start=os.curdir"
+        ]
+    }
+
+]

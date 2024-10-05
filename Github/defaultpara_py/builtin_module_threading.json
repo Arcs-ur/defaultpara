@@ -1,0 +1,129 @@
+[
+    {
+        "function_name": "threading.stack_size([size])¶",
+        "all_parameters": "[size]",
+        "default_parameters": []
+    },
+    {
+        "function_name": "classthreading.Thread(group=None,target=None,name=None,args=(),kwargs={},*,daemon=None)¶",
+        "all_parameters": "group=None,target=None,name=None,args=(),kwargs={},*,daemon=None",
+        "default_parameters": [
+            "group=None",
+            "target=None",
+            "name=None",
+            "args=()",
+            "kwargs={}",
+            "daemon=None"
+        ]
+    },
+    {
+        "function_name": "join(timeout=None)¶",
+        "all_parameters": "timeout=None",
+        "default_parameters": [
+            "timeout=None"
+        ]
+    },
+    {
+        "function_name": "acquire(blocking=True,timeout=-1)¶",
+        "all_parameters": "blocking=True,timeout=-1",
+        "default_parameters": [
+            "blocking=True",
+            "timeout=-1"
+        ]
+    },
+    {
+        "function_name": "acquire(blocking=True,timeout=-1)¶",
+        "all_parameters": "blocking=True,timeout=-1",
+        "default_parameters": [
+            "blocking=True",
+            "timeout=-1"
+        ]
+    },
+    {
+        "function_name": "classthreading.Condition(lock=None)¶",
+        "all_parameters": "lock=None",
+        "default_parameters": [
+            "lock=None"
+        ]
+    },
+    {
+        "function_name": "wait(timeout=None)¶",
+        "all_parameters": "timeout=None",
+        "default_parameters": [
+            "timeout=None"
+        ]
+    },
+    {
+        "function_name": "wait_for(predicate,timeout=None)¶",
+        "all_parameters": "predicate,timeout=None",
+        "default_parameters": [
+            "timeout=None"
+        ]
+    },
+    {
+        "function_name": "notify(n=1)¶",
+        "all_parameters": "n=1",
+        "default_parameters": [
+            "n=1"
+        ]
+    },
+    {
+        "function_name": "classthreading.Semaphore(value=1)¶",
+        "all_parameters": "value=1",
+        "default_parameters": [
+            "value=1"
+        ]
+    },
+    {
+        "function_name": "acquire(blocking=True,timeout=None)¶",
+        "all_parameters": "blocking=True,timeout=None",
+        "default_parameters": [
+            "blocking=True",
+            "timeout=None"
+        ]
+    },
+    {
+        "function_name": "release(n=1)¶",
+        "all_parameters": "n=1",
+        "default_parameters": [
+            "n=1"
+        ]
+    },
+    {
+        "function_name": "classthreading.BoundedSemaphore(value=1)¶",
+        "all_parameters": "value=1",
+        "default_parameters": [
+            "value=1"
+        ]
+    },
+    {
+        "function_name": "wait(timeout=None)¶",
+        "all_parameters": "timeout=None",
+        "default_parameters": [
+            "timeout=None"
+        ]
+    },
+    {
+        "function_name": "classthreading.Timer(interval,function,args=None,kwargs=None)¶",
+        "all_parameters": "interval,function,args=None,kwargs=None",
+        "default_parameters": [
+            "args=None",
+            "kwargs=None"
+        ]
+    },
+    {
+        "function_name": "classthreading.Barrier(parties,action=None,timeout=None)¶",
+        "all_parameters": "parties,action=None,timeout=None",
+        "default_parameters": [
+            "action=None",
+            "timeout=None"
+        ]
+    },
+    {
+        "function_name": "wait(timeout=None)¶",
+        "all_parameters": "timeout=None",
+        "default_parameters": [
+            "timeout=None"
+        ]
+    }
+]

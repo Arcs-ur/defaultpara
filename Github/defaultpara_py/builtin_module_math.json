@@ -1,0 +1,36 @@
+[
+    {
+        "function_name": "math.isclose(a,b,*,rel_tol=1e-09,abs_tol=0.0)¶",
+        "all_parameters": "a,b,*,rel_tol=1e-09,abs_tol=0.0",
+        "default_parameters": [
+            "rel_tol=1e-09",
+            "abs_tol=0.0"
+        ]
+    },
+    {
+        "function_name": "math.nextafter(x,y,steps=1)¶",
+        "all_parameters": "x,y,steps=1",
+        "default_parameters": [
+            "steps=1"
+        ]
+    },
+    {
+        "function_name": "math.perm(n,k=None)¶",
+        "all_parameters": "n,k=None",
+        "default_parameters": [
+            "k=None"
+        ]
+    },
+    {
+        "function_name": "math.prod(iterable,*,start=1)¶",
+        "all_parameters": "iterable,*,start=1",
+        "default_parameters": [
+            "start=1"
+        ]
+    },
+    {
+        "function_name": "math.log(x[,base])¶",
+        "all_parameters": "x[,base]",
+        "default_parameters": []
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "function_name": "sys.exit([arg])¶",
+        "all_parameters": "[arg]",
+        "default_parameters": []
+    },
+    {
+        "function_name": "sys.getsizeof(object[,default])¶",
+        "all_parameters": "object[,default]",
+        "default_parameters": []
+    },
+    {
+        "function_name": "sys._getframe([depth])¶",
+        "all_parameters": "[depth]",
+        "default_parameters": []
+    },
+    {
+        "function_name": "sys._getframemodulename([depth])¶",
+        "all_parameters": "[depth]",
+        "default_parameters": []
+    },
+    {
+        "function_name": "sys.set_asyncgen_hooks([firstiter][,finalizer])¶",
+        "all_parameters": "[firstiter][,finalizer]",
+        "default_parameters": []
+    }    
+]
