@@ -10,6 +10,13 @@ defaultpara_py仓库总共有
 - default_module_sys.json
 - default_module_threading.json   
 
+>筛选了一下
+- builtin_functions_hf.json
+- builtin_module_rand_hf.json
+- builtin_module_threading_hf.json
+- math,os_path_ ,sys本身就只有几个
+- datatime感觉其实都不太用得到
+
 > 未校验结果文件
 
 结果文件里面包括
