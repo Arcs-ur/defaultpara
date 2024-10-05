@@ -1,0 +1,60 @@
+[
+    {
+        "function_name": "random.seed(a=None,version=2)¶",
+        "all_parameters": "a=None,version=2",
+        "default_parameters": [
+            "a=None",
+            "version=2"
+        ]
+    },
+    {
+        "function_name": "random.randrange(stop)¶",
+        "all_parameters": "stop",
+        "default_parameters": []
+    },
+    {
+        "function_name": "random.randrange(start, stop[, step])¶",
+        "all_parameters": "start, stop[, step]",
+        "default_parameters": []
+    },
+    {
+        "function_name": "random.choices(population,weights=None,*,cum_weights=None,k=1)¶",
+        "all_parameters": "population,weights=None,*,cum_weights=None,k=1",
+        "default_parameters": [
+            "weights=None",
+            "cum_weights=None",
+            "k=1"
+        ]
+    },
+    {
+        "function_name": "random.sample(population,k,*,counts=None)¶",
+        "all_parameters": "population,k,*,counts=None",
+        "default_parameters": [
+            "counts=None"
+        ]
+    },
+    {
+        "function_name": "random.binomialvariate(n=1,p=0.5)¶",
+        "all_parameters": "n=1,p=0.5",
+        "default_parameters": [
+            "n=1",
+            "p=0.5"
+        ]
+    },
+    {
+        "function_name": "random.gauss(mu=0.0,sigma=1.0)¶",
+        "all_parameters": "mu=0.0,sigma=1.0",
+        "default_parameters": [
+            "mu=0.0",
+            "sigma=1.0"
+        ]
+    },
+    {
+        "function_name": "random.normalvariate(mu=0.0,sigma=1.0)¶",
+        "all_parameters": "mu=0.0,sigma=1.0",
+        "default_parameters": [
+            "mu=0.0",
+            "sigma=1.0"
+        ]
+    }
+]

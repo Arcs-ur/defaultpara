@@ -1,0 +1,173 @@
+[
+    {
+        "function_name": "classdict(**kwarg)",
+        "all_parameters": "**kwarg",
+        "default_parameters": []
+    },
+    {
+        "function_name": "classdict(mapping, **kwarg)",
+        "all_parameters": "mapping, **kwarg",
+        "default_parameters": []
+    },
+    {
+        "function_name": "classdict(iterable, **kwarg)",
+        "all_parameters": "iterable, **kwarg",
+        "default_parameters": []
+    },
+    {
+        "function_name": "enumerate(iterable,start=0)¶",
+        "all_parameters": "iterable,start=0",
+        "default_parameters": [
+            "start=0"
+        ]
+    },
+    {
+        "function_name": "format(value,format_spec='')¶",
+        "all_parameters": "value,format_spec=''",
+        "default_parameters": [
+            "format_spec=''"
+        ]
+    },
+    {
+        "function_name": "classint(number=0,/)¶",
+        "all_parameters": "number=0,/",
+        "default_parameters": [
+            "number=0"
+        ]
+    },
+    {
+        "function_name": "classint(string, /, base=10)¶",
+        "all_parameters": "string, /, base=10",
+        "default_parameters": [
+            "base=10"
+        ]
+    },
+    {
+        "function_name": "list()¶",
+        "all_parameters": "",
+        "default_parameters": []
+    },
+    {
+        "function_name": "list(iterable)¶",
+        "all_parameters": "iterable",
+        "default_parameters": []
+    },
+    {
+        "function_name": "max(iterable,*,default,key=None)¶",
+        "all_parameters": "iterable,*,default,key=None",
+        "default_parameters": [
+            "key=None"
+        ]
+    },
+    {
+        "function_name": "max(arg1, arg2, *args, key=None)",
+        "all_parameters": "arg1, arg2, *args, key=None",
+        "default_parameters": [
+            "key=None"
+        ]
+    },
+    {
+        "function_name": "min(iterable,*,default,key=None)¶",
+        "all_parameters": "iterable,*,default,key=None",
+        "default_parameters": [
+            "key=None"
+        ]
+    },
+    {
+        "function_name": "min(arg1, arg2, *args, key=None)",
+        "all_parameters": "arg1, arg2, *args, key=None",
+        "default_parameters": [
+            "key=None"
+        ]
+    },
+    {
+        "function_name": "open(file,mode='r',buffering=-1,encoding=None,errors=None,newline=None,closefd=True,opener=None)¶",
+        "all_parameters": "file,mode='r',buffering=-1,encoding=None,errors=None,newline=None,closefd=True,opener=None",
+        "default_parameters": [
+            "mode='r'",
+            "buffering=-1",
+            "encoding=None",
+            "errors=None",
+            "newline=None",
+            "closefd=True",
+            "opener=None"
+        ]
+    },
+    {
+        "function_name": "print(*objects,sep='',end='\\n',file=None,flush=False)¶",
+        "all_parameters": "*objects,sep='',end='\\n',file=None,flush=False",
+        "default_parameters": [
+            "sep=''",
+            "end='\\n'",
+            "file=None",
+            "flush=False"
+        ]
+    },
+    {
+        "function_name": "classrange(stop)",
+        "all_parameters": "stop",
+        "default_parameters": []
+    },
+    {
+        "function_name": "class range(start, stop, step=1)",
+        "all_parameters": "start, stop, step=1",
+        "default_parameters": [
+            "step=1"
+        ]
+    },
+    {
+        "function_name": "round(number,ndigits=None)¶",
+        "all_parameters": "number,ndigits=None",
+        "default_parameters": [
+            "ndigits=None"
+        ]
+    },
+    {
+        "function_name": "sorted(iterable,/,*,key=None,reverse=False)¶",
+        "all_parameters": "iterable,/,*,key=None,reverse=False",
+        "default_parameters": [
+            "key=None",
+            "reverse=False"
+        ]
+    },
+    {
+        "function_name": "classstr(object='')",
+        "all_parameters": "object=''",
+        "default_parameters": [
+            "object=''"
+        ]
+    },
+    {
+        "function_name": "classstr(object=b'', encoding='utf-8', errors='strict')",
+        "all_parameters": "object=b'', encoding='utf-8', errors='strict'",
+        "default_parameters": [
+            "object=''",
+            "encoding='utf-8'",
+            "errors='strict'"
+        ]
+    },
+    {
+        "function_name": "sum(iterable,/,start=0)¶",
+        "all_parameters": "iterable,/,start=0",
+        "default_parameters": [
+            "start=0"
+        ]
+    },
+    {
+        "function_name": "classtuple()¶",
+        "all_parameters": "",
+        "default_parameters": []
+    },
+    {
+        "function_name": "classtuple(iterable)¶",
+        "all_parameters": "iterable",
+        "default_parameters": []
+    },
+    {
+        "function_name": "zip(*iterables,strict=False)¶",
+        "all_parameters": "*iterables,strict=False",
+        "default_parameters": [
+            "strict=False"
+        ]
+    }
+]
