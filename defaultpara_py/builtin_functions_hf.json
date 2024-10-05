@@ -116,6 +116,16 @@
         ]
     },
     {
+        "function_name": "input(prompt)¶",
+        "all_parameters": "prompt",
+        "default_parameters": []
+    },
+    {
+        "function_name": "input()¶",
+        "all_parameters": "",
+        "default_parameters": []
+    },
+    {
         "function_name": "round(number,ndigits=None)¶",
         "all_parameters": "number,ndigits=None",
         "default_parameters": [
