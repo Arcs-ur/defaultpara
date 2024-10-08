@@ -1,0 +1,884 @@
+[
+    {
+        "function_name": "html.escape(s,quote=True)¶",
+        "all_parameters": "s,quote=True",
+        "default_parameters": [
+            "quote=True"
+        ]
+    },
+    {
+        "function_name": "__call__(cls,value,names=None,*,module=None,qualname=None,type=None,start=1,boundary=None)¶",
+        "all_parameters": "cls,value,names=None,*,module=None,qualname=None,type=None,start=1,boundary=None",
+        "default_parameters": [
+            "names=None",
+            "module=None",
+            "qualname=None",
+            "type=None",
+            "start=1",
+            "boundary=None"
+        ]
+    },
+    {
+        "function_name": "classhtml.parser.HTMLParser(*,convert_charrefs=True)¶",
+        "all_parameters": "*,convert_charrefs=True",
+        "default_parameters": [
+            "convert_charrefs=True"
+        ]
+    },
+    {
+        "function_name": "classhttp.client.HTTPConnection(host,port=None,[timeout,]source_address=None,blocksize=8192)¶",
+        "all_parameters": "host,port=None,[timeout,]source_address=None,blocksize=8192",
+        "default_parameters": [
+            "port=None",
+            "]source_address=None",
+            "blocksize=8192"
+        ]
+    },
+    {
+        "function_name": "classhttp.client.HTTPSConnection(host,port=None,*,[timeout,]source_address=None,context=None,blocksize=8192)¶",
+        "all_parameters": "host,port=None,*,[timeout,]source_address=None,context=None,blocksize=8192",
+        "default_parameters": [
+            "port=None",
+            "source_address=None",
+            "context=None",
+            "blocksize=8192"
+        ]
+    },
+    {
+        "function_name": "classhttp.client.HTTPResponse(sock,debuglevel=0,method=None,url=None)¶",
+        "all_parameters": "sock,debuglevel=0,method=None,url=None",
+        "default_parameters": [
+            "debuglevel=0",
+            "method=None",
+            "url=None"
+        ]
+    },
+    {
+        "function_name": "HTTPConnection.request(method,url,body=None,headers={},*,encode_chunked=False)¶",
+        "all_parameters": "method,url,body=None,headers={},*,encode_chunked=False",
+        "default_parameters": [
+            "body=None",
+            "headers={}",
+            "encode_chunked=False"
+        ]
+    },
+    {
+        "function_name": "HTTPConnection.set_tunnel(host,port=None,headers=None)¶",
+        "all_parameters": "host,port=None,headers=None",
+        "default_parameters": [
+            "port=None",
+            "headers=None"
+        ]
+    },
+    {
+        "function_name": "HTTPConnection.putrequest(method,url,skip_host=False,skip_accept_encoding=False)¶",
+        "all_parameters": "method,url,skip_host=False,skip_accept_encoding=False",
+        "default_parameters": [
+            "skip_host=False",
+            "skip_accept_encoding=False"
+        ]
+    },
+    {
+        "function_name": "HTTPConnection.endheaders(message_body=None,*,encode_chunked=False)¶",
+        "all_parameters": "message_body=None,*,encode_chunked=False",
+        "default_parameters": [
+            "message_body=None",
+            "encode_chunked=False"
+        ]
+    },
+    {
+        "function_name": "HTTPResponse.getheader(name,default=None)¶",
+        "all_parameters": "name,default=None",
+        "default_parameters": [
+            "default=None"
+        ]
+    },
+    {
+        "function_name": "classhttp.cookiejar.CookieJar(policy=None)¶",
+        "all_parameters": "policy=None",
+        "default_parameters": [
+            "policy=None"
+        ]
+    },
+    {
+        "function_name": "classhttp.cookiejar.FileCookieJar(filename=None,delayload=None,policy=None)¶",
+        "all_parameters": "filename=None,delayload=None,policy=None",
+        "default_parameters": [
+            "filename=None",
+            "delayload=None",
+            "policy=None"
+        ]
+    },
+    {
+        "function_name": "classhttp.cookiejar.DefaultCookiePolicy(blocked_domains=None,allowed_domains=None,netscape=True,rfc2965=False,rfc2109_as_netscape=None,hide_cookie2=False,strict_domain=False,strict_rfc2965_unverifiable=True,strict_ns_unverifiable=False,strict_ns_domain=DefaultCookiePolicy.DomainLiberal,strict_ns_set_initial_dollar=False,strict_ns_set_path=False,secure_protocols=('https','wss'))¶",
+        "all_parameters": "blocked_domains=None,allowed_domains=None,netscape=True,rfc2965=False,rfc2109_as_netscape=None,hide_cookie2=False,strict_domain=False,strict_rfc2965_unverifiable=True,strict_ns_unverifiable=False,strict_ns_domain=DefaultCookiePolicy.DomainLiberal,strict_ns_set_initial_dollar=False,strict_ns_set_path=False,secure_protocols=('https','wss'",
+        "default_parameters": [
+            "blocked_domains=None",
+            "allowed_domains=None",
+            "netscape=True",
+            "rfc2965=False",
+            "rfc2109_as_netscape=None",
+            "hide_cookie2=False",
+            "strict_domain=False",
+            "strict_rfc2965_unverifiable=True",
+            "strict_ns_unverifiable=False",
+            "strict_ns_domain=DefaultCookiePolicy.DomainLiberal",
+            "strict_ns_set_initial_dollar=False",
+            "strict_ns_set_path=False",
+            "secure_protocols=('https'"
+        ]
+    },
+    {
+        "function_name": "FileCookieJar.save(filename=None,ignore_discard=False,ignore_expires=False)¶",
+        "all_parameters": "filename=None,ignore_discard=False,ignore_expires=False",
+        "default_parameters": [
+            "filename=None",
+            "ignore_discard=False",
+            "ignore_expires=False"
+        ]
+    },
+    {
+        "function_name": "FileCookieJar.load(filename=None,ignore_discard=False,ignore_expires=False)¶",
+        "all_parameters": "filename=None,ignore_discard=False,ignore_expires=False",
+        "default_parameters": [
+            "filename=None",
+            "ignore_discard=False",
+            "ignore_expires=False"
+        ]
+    },
+    {
+        "function_name": "FileCookieJar.revert(filename=None,ignore_discard=False,ignore_expires=False)¶",
+        "all_parameters": "filename=None,ignore_discard=False,ignore_expires=False",
+        "default_parameters": [
+            "filename=None",
+            "ignore_discard=False",
+            "ignore_expires=False"
+        ]
+    },
+    {
+        "function_name": "classhttp.cookiejar.MozillaCookieJar(filename=None,delayload=None,policy=None)¶",
+        "all_parameters": "filename=None,delayload=None,policy=None",
+        "default_parameters": [
+            "filename=None",
+            "delayload=None",
+            "policy=None"
+        ]
+    },
+    {
+        "function_name": "classhttp.cookiejar.LWPCookieJar(filename=None,delayload=None,policy=None)¶",
+        "all_parameters": "filename=None,delayload=None,policy=None",
+        "default_parameters": [
+            "filename=None",
+            "delayload=None",
+            "policy=None"
+        ]
+    },
+    {
+        "function_name": "Cookie.get_nonstandard_attr(name,default=None)¶",
+        "all_parameters": "name,default=None",
+        "default_parameters": [
+            "default=None"
+        ]
+    },
+    {
+        "function_name": "Cookie.is_expired(now=None)¶",
+        "all_parameters": "now=None",
+        "default_parameters": [
+            "now=None"
+        ]
+    },
+    {
+        "function_name": "BaseCookie.output(attrs=None,header='Set-Cookie:',sep='\\r\\n')¶",
+        "all_parameters": "attrs=None,header='Set-Cookie:',sep='\\r\\n'",
+        "default_parameters": [
+            "attrs=None",
+            "header='Set-Cookie:'",
+            "sep='\\r\\n'"
+        ]
+    },
+    {
+        "function_name": "BaseCookie.js_output(attrs=None)¶",
+        "all_parameters": "attrs=None",
+        "default_parameters": [
+            "attrs=None"
+        ]
+    },
+    {
+        "function_name": "Morsel.output(attrs=None,header='Set-Cookie:')¶",
+        "all_parameters": "attrs=None,header='Set-Cookie:'",
+        "default_parameters": [
+            "attrs=None",
+            "header='Set-Cookie:'"
+        ]
+    },
+    {
+        "function_name": "Morsel.js_output(attrs=None)¶",
+        "all_parameters": "attrs=None",
+        "default_parameters": [
+            "attrs=None"
+        ]
+    },
+    {
+        "function_name": "Morsel.OutputString(attrs=None)¶",
+        "all_parameters": "attrs=None",
+        "default_parameters": [
+            "attrs=None"
+        ]
+    },
+    {
+        "function_name": "Morsel.setdefault(key,value=None)¶",
+        "all_parameters": "key,value=None",
+        "default_parameters": [
+            "value=None"
+        ]
+    },
+    {
+        "function_name": "send_error(code,message=None,explain=None)¶",
+        "all_parameters": "code,message=None,explain=None",
+        "default_parameters": [
+            "message=None",
+            "explain=None"
+        ]
+    },
+    {
+        "function_name": "send_response(code,message=None)¶",
+        "all_parameters": "code,message=None",
+        "default_parameters": [
+            "message=None"
+        ]
+    },
+    {
+        "function_name": "send_response_only(code,message=None)¶",
+        "all_parameters": "code,message=None",
+        "default_parameters": [
+            "message=None"
+        ]
+    },
+    {
+        "function_name": "log_request(code='-',size='-')¶",
+        "all_parameters": "code='-',size='-'",
+        "default_parameters": [
+            "code='-'",
+            "size='-'"
+        ]
+    },
+    {
+        "function_name": "date_time_string(timestamp=None)¶",
+        "all_parameters": "timestamp=None",
+        "default_parameters": [
+            "timestamp=None"
+        ]
+    },
+    {
+        "function_name": "classhttp.server.SimpleHTTPRequestHandler(request,client_address,server,directory=None)¶",
+        "all_parameters": "request,client_address,server,directory=None",
+        "default_parameters": [
+            "directory=None"
+        ]
+    },
+    {
+        "function_name": "json.dump(obj,fp,*,skipkeys=False,ensure_ascii=True,check_circular=True,allow_nan=True,cls=None,indent=None,separators=None,default=None,sort_keys=False,**kw)¶",
+        "all_parameters": "obj,fp,*,skipkeys=False,ensure_ascii=True,check_circular=True,allow_nan=True,cls=None,indent=None,separators=None,default=None,sort_keys=False,**kw",
+        "default_parameters": [
+            "skipkeys=False",
+            "ensure_ascii=True",
+            "check_circular=True",
+            "allow_nan=True",
+            "cls=None",
+            "indent=None",
+            "separators=None",
+            "default=None",
+            "sort_keys=False"
+        ]
+    },
+    {
+        "function_name": "json.dumps(obj,*,skipkeys=False,ensure_ascii=True,check_circular=True,allow_nan=True,cls=None,indent=None,separators=None,default=None,sort_keys=False,**kw)¶",
+        "all_parameters": "obj,*,skipkeys=False,ensure_ascii=True,check_circular=True,allow_nan=True,cls=None,indent=None,separators=None,default=None,sort_keys=False,**kw",
+        "default_parameters": [
+            "skipkeys=False",
+            "ensure_ascii=True",
+            "check_circular=True",
+            "allow_nan=True",
+            "cls=None",
+            "indent=None",
+            "separators=None",
+            "default=None",
+            "sort_keys=False"
+        ]
+    },
+    {
+        "function_name": "json.load(fp,*,cls=None,object_hook=None,parse_float=None,parse_int=None,parse_constant=None,object_pairs_hook=None,**kw)¶",
+        "all_parameters": "fp,*,cls=None,object_hook=None,parse_float=None,parse_int=None,parse_constant=None,object_pairs_hook=None,**kw",
+        "default_parameters": [
+            "cls=None",
+            "object_hook=None",
+            "parse_float=None",
+            "parse_int=None",
+            "parse_constant=None",
+            "object_pairs_hook=None"
+        ]
+    },
+    {
+        "function_name": "json.loads(s,*,cls=None,object_hook=None,parse_float=None,parse_int=None,parse_constant=None,object_pairs_hook=None,**kw)¶",
+        "all_parameters": "s,*,cls=None,object_hook=None,parse_float=None,parse_int=None,parse_constant=None,object_pairs_hook=None,**kw",
+        "default_parameters": [
+            "cls=None",
+            "object_hook=None",
+            "parse_float=None",
+            "parse_int=None",
+            "parse_constant=None",
+            "object_pairs_hook=None"
+        ]
+    },
+    {
+        "function_name": "classjson.JSONDecoder(*,object_hook=None,parse_float=None,parse_int=None,parse_constant=None,strict=True,object_pairs_hook=None)¶",
+        "all_parameters": "*,object_hook=None,parse_float=None,parse_int=None,parse_constant=None,strict=True,object_pairs_hook=None",
+        "default_parameters": [
+            "object_hook=None",
+            "parse_float=None",
+            "parse_int=None",
+            "parse_constant=None",
+            "strict=True",
+            "object_pairs_hook=None"
+        ]
+    },
+    {
+        "function_name": "classjson.JSONEncoder(*,skipkeys=False,ensure_ascii=True,check_circular=True,allow_nan=True,sort_keys=False,indent=None,separators=None,default=None)¶",
+        "all_parameters": "*,skipkeys=False,ensure_ascii=True,check_circular=True,allow_nan=True,sort_keys=False,indent=None,separators=None,default=None",
+        "default_parameters": [
+            "skipkeys=False",
+            "ensure_ascii=True",
+            "check_circular=True",
+            "allow_nan=True",
+            "sort_keys=False",
+            "indent=None",
+            "separators=None",
+            "default=None"
+        ]
+    },
+    {
+        "function_name": "logging.config.fileConfig(fname,defaults=None,disable_existing_loggers=True,encoding=None)¶",
+        "all_parameters": "fname,defaults=None,disable_existing_loggers=True,encoding=None",
+        "default_parameters": [
+            "defaults=None",
+            "disable_existing_loggers=True",
+            "encoding=None"
+        ]
+    },
+    {
+        "function_name": "logging.config.listen(port=DEFAULT_LOGGING_CONFIG_PORT,verify=None)¶",
+        "all_parameters": "port=DEFAULT_LOGGING_CONFIG_PORT,verify=None",
+        "default_parameters": [
+            "port=DEFAULT_LOGGING_CONFIG_PORT",
+            "verify=None"
+        ]
+    },
+    {
+        "function_name": "classlogging.StreamHandler(stream=None)¶",
+        "all_parameters": "stream=None",
+        "default_parameters": [
+            "stream=None"
+        ]
+    },
+    {
+        "function_name": "classlogging.FileHandler(filename,mode='a',encoding=None,delay=False,errors=None)¶",
+        "all_parameters": "filename,mode='a',encoding=None,delay=False,errors=None",
+        "default_parameters": [
+            "mode='a'",
+            "encoding=None",
+            "delay=False",
+            "errors=None"
+        ]
+    },
+    {
+        "function_name": "classlogging.handlers.WatchedFileHandler(filename,mode='a',encoding=None,delay=False,errors=None)¶",
+        "all_parameters": "filename,mode='a',encoding=None,delay=False,errors=None",
+        "default_parameters": [
+            "mode='a'",
+            "encoding=None",
+            "delay=False",
+            "errors=None"
+        ]
+    },
+    {
+        "function_name": "classlogging.handlers.BaseRotatingHandler(filename,mode,encoding=None,delay=False,errors=None)¶",
+        "all_parameters": "filename,mode,encoding=None,delay=False,errors=None",
+        "default_parameters": [
+            "encoding=None",
+            "delay=False",
+            "errors=None"
+        ]
+    },
+    {
+        "function_name": "classlogging.handlers.RotatingFileHandler(filename,mode='a',maxBytes=0,backupCount=0,encoding=None,delay=False,errors=None)¶",
+        "all_parameters": "filename,mode='a',maxBytes=0,backupCount=0,encoding=None,delay=False,errors=None",
+        "default_parameters": [
+            "mode='a'",
+            "maxBytes=0",
+            "backupCount=0",
+            "encoding=None",
+            "delay=False",
+            "errors=None"
+        ]
+    },
+    {
+        "function_name": "classlogging.handlers.TimedRotatingFileHandler(filename,when='h',interval=1,backupCount=0,encoding=None,delay=False,utc=False,atTime=None,errors=None)¶",
+        "all_parameters": "filename,when='h',interval=1,backupCount=0,encoding=None,delay=False,utc=False,atTime=None,errors=None",
+        "default_parameters": [
+            "when='h'",
+            "interval=1",
+            "backupCount=0",
+            "encoding=None",
+            "delay=False",
+            "utc=False",
+            "atTime=None",
+            "errors=None"
+        ]
+    },
+    {
+        "function_name": "classlogging.handlers.SysLogHandler(address=('localhost',SYSLOG_UDP_PORT),facility=LOG_USER,socktype=socket.SOCK_DGRAM)¶",
+        "all_parameters": "address=('localhost',SYSLOG_UDP_PORT",
+        "default_parameters": [
+            "address=('localhost'"
+        ]
+    },
+    {
+        "function_name": "classlogging.handlers.NTEventLogHandler(appname,dllname=None,logtype='Application')¶",
+        "all_parameters": "appname,dllname=None,logtype='Application'",
+        "default_parameters": [
+            "dllname=None",
+            "logtype='Application'"
+        ]
+    },
+    {
+        "function_name": "classlogging.handlers.SMTPHandler(mailhost,fromaddr,toaddrs,subject,credentials=None,secure=None,timeout=1.0)¶",
+        "all_parameters": "mailhost,fromaddr,toaddrs,subject,credentials=None,secure=None,timeout=1.0",
+        "default_parameters": [
+            "credentials=None",
+            "secure=None",
+            "timeout=1.0"
+        ]
+    },
+    {
+        "function_name": "classlogging.handlers.MemoryHandler(capacity,flushLevel=ERROR,target=None,flushOnClose=True)¶",
+        "all_parameters": "capacity,flushLevel=ERROR,target=None,flushOnClose=True",
+        "default_parameters": [
+            "flushLevel=ERROR",
+            "target=None",
+            "flushOnClose=True"
+        ]
+    },
+    {
+        "function_name": "classlogging.handlers.HTTPHandler(host,url,method='GET',secure=False,credentials=None,context=None)¶",
+        "all_parameters": "host,url,method='GET',secure=False,credentials=None,context=None",
+        "default_parameters": [
+            "method='GET'",
+            "secure=False",
+            "credentials=None",
+            "context=None"
+        ]
+    },
+    {
+        "function_name": "classlogging.handlers.QueueListener(queue,*handlers,respect_handler_level=False)¶",
+        "all_parameters": "queue,*handlers,respect_handler_level=False",
+        "default_parameters": [
+            "respect_handler_level=False"
+        ]
+    },
+    {
+        "function_name": "findCaller(stack_info=False,stacklevel=1)¶",
+        "all_parameters": "stack_info=False,stacklevel=1",
+        "default_parameters": [
+            "stack_info=False",
+            "stacklevel=1"
+        ]
+    },
+    {
+        "function_name": "makeRecord(name,level,fn,lno,msg,args,exc_info,func=None,extra=None,sinfo=None)¶",
+        "all_parameters": "name,level,fn,lno,msg,args,exc_info,func=None,extra=None,sinfo=None",
+        "default_parameters": [
+            "func=None",
+            "extra=None",
+            "sinfo=None"
+        ]
+    },
+    {
+        "function_name": "__init__(level=NOTSET)¶",
+        "all_parameters": "level=NOTSET",
+        "default_parameters": [
+            "level=NOTSET"
+        ]
+    },
+    {
+        "function_name": "classlogging.Formatter(fmt=None,datefmt=None,style='%',validate=True,*,defaults=None)¶",
+        "all_parameters": "fmt=None,datefmt=None,style='%',validate=True,*,defaults=None",
+        "default_parameters": [
+            "fmt=None",
+            "datefmt=None",
+            "style='%'",
+            "validate=True",
+            "defaults=None"
+        ]
+    },
+    {
+        "function_name": "formatTime(record,datefmt=None)¶",
+        "all_parameters": "record,datefmt=None",
+        "default_parameters": [
+            "datefmt=None"
+        ]
+    },
+    {
+        "function_name": "classlogging.BufferingFormatter(linefmt=None)¶",
+        "all_parameters": "linefmt=None",
+        "default_parameters": [
+            "linefmt=None"
+        ]
+    },
+    {
+        "function_name": "classlogging.Filter(name='')¶",
+        "all_parameters": "name=''",
+        "default_parameters": [
+            "name=''"
+        ]
+    },
+    {
+        "function_name": "classlogging.LogRecord(name,level,pathname,lineno,msg,args,exc_info,func=None,sinfo=None)¶",
+        "all_parameters": "name,level,pathname,lineno,msg,args,exc_info,func=None,sinfo=None",
+        "default_parameters": [
+            "func=None",
+            "sinfo=None"
+        ]
+    },
+    {
+        "function_name": "classlogging.LoggerAdapter(logger,extra,merge_extra=False)¶",
+        "all_parameters": "logger,extra,merge_extra=False",
+        "default_parameters": [
+            "merge_extra=False"
+        ]
+    },
+    {
+        "function_name": "logging.getLogger(name=None)¶",
+        "all_parameters": "name=None",
+        "default_parameters": [
+            "name=None"
+        ]
+    },
+    {
+        "function_name": "logging.disable(level=CRITICAL)¶",
+        "all_parameters": "level=CRITICAL",
+        "default_parameters": [
+            "level=CRITICAL"
+        ]
+    },
+    {
+        "function_name": "substitute(mapping={},/,**kwds)¶",
+        "all_parameters": "mapping={},/,**kwds",
+        "default_parameters": [
+            "mapping={}"
+        ]
+    },
+    {
+        "function_name": "safe_substitute(mapping={},/,**kwds)¶",
+        "all_parameters": "mapping={},/,**kwds",
+        "default_parameters": [
+            "mapping={}"
+        ]
+    },
+    {
+        "function_name": "string.capwords(s,sep=None)¶",
+        "all_parameters": "s,sep=None",
+        "default_parameters": [
+            "sep=None"
+        ]
+    },
+    {
+        "function_name": "site.addsitedir(sitedir,known_paths=None)¶",
+        "all_parameters": "sitedir,known_paths=None",
+        "default_parameters": [
+            "known_paths=None"
+        ]
+    },
+    {
+        "function_name": "classsocket.socket(family=AF_INET,type=SOCK_STREAM,proto=0,fileno=None)¶",
+        "all_parameters": "family=AF_INET,type=SOCK_STREAM,proto=0,fileno=None",
+        "default_parameters": [
+            "family=AF_INET",
+            "type=SOCK_STREAM",
+            "proto=0",
+            "fileno=None"
+        ]
+    },
+    {
+        "function_name": "socket.create_connection(address,timeout=GLOBAL_DEFAULT,source_address=None,*,all_errors=False)¶",
+        "all_parameters": "address,timeout=GLOBAL_DEFAULT,source_address=None,*,all_errors=False",
+        "default_parameters": [
+            "timeout=GLOBAL_DEFAULT",
+            "source_address=None",
+            "all_errors=False"
+        ]
+    },
+    {
+        "function_name": "socket.create_server(address,*,family=AF_INET,backlog=None,reuse_port=False,dualstack_ipv6=False)¶",
+        "all_parameters": "address,*,family=AF_INET,backlog=None,reuse_port=False,dualstack_ipv6=False",
+        "default_parameters": [
+            "family=AF_INET",
+            "backlog=None",
+            "reuse_port=False",
+            "dualstack_ipv6=False"
+        ]
+    },
+    {
+        "function_name": "socket.fromfd(fd,family,type,proto=0)¶",
+        "all_parameters": "fd,family,type,proto=0",
+        "default_parameters": [
+            "proto=0"
+        ]
+    },
+    {
+        "function_name": "socket.getaddrinfo(host,port,family=0,type=0,proto=0,flags=0)¶",
+        "all_parameters": "host,port,family=0,type=0,proto=0,flags=0",
+        "default_parameters": [
+            "family=0",
+            "type=0",
+            "proto=0",
+            "flags=0"
+        ]
+    },
+    {
+        "function_name": "socket.makefile(mode='r',buffering=None,*,encoding=None,errors=None,newline=None)¶",
+        "all_parameters": "mode='r',buffering=None,*,encoding=None,errors=None,newline=None",
+        "default_parameters": [
+            "mode='r'",
+            "buffering=None",
+            "encoding=None",
+            "errors=None",
+            "newline=None"
+        ]
+    },
+    {
+        "function_name": "socket.sendfile(file,offset=0,count=None)¶",
+        "all_parameters": "file,offset=0,count=None",
+        "default_parameters": [
+            "offset=0",
+            "count=None"
+        ]
+    },
+    {
+        "function_name": "classzipfile.ZipInfo(filename='NoName',date_time=(1980,1,1,0,0,0))¶",
+        "all_parameters": "filename='NoName',date_time=(1980,1,1,0,0,0",
+        "default_parameters": [
+            "filename='NoName'",
+            "date_time=(1980"
+        ]
+    },
+    {
+        "function_name": "classzipfile.ZipFile(file,mode='r',compression=ZIP_STORED,allowZip64=True,compresslevel=None,*,strict_timestamps=True,metadata_encoding=None)¶",
+        "all_parameters": "file,mode='r',compression=ZIP_STORED,allowZip64=True,compresslevel=None,*,strict_timestamps=True,metadata_encoding=None",
+        "default_parameters": [
+            "mode='r'",
+            "compression=ZIP_STORED",
+            "allowZip64=True",
+            "compresslevel=None",
+            "strict_timestamps=True",
+            "metadata_encoding=None"
+        ]
+    },
+    {
+        "function_name": "ZipFile.open(name,mode='r',pwd=None,*,force_zip64=False)¶",
+        "all_parameters": "name,mode='r',pwd=None,*,force_zip64=False",
+        "default_parameters": [
+            "mode='r'",
+            "pwd=None",
+            "force_zip64=False"
+        ]
+    },
+    {
+        "function_name": "ZipFile.extract(member,path=None,pwd=None)¶",
+        "all_parameters": "member,path=None,pwd=None",
+        "default_parameters": [
+            "path=None",
+            "pwd=None"
+        ]
+    },
+    {
+        "function_name": "ZipFile.extractall(path=None,members=None,pwd=None)¶",
+        "all_parameters": "path=None,members=None,pwd=None",
+        "default_parameters": [
+            "path=None",
+            "members=None",
+            "pwd=None"
+        ]
+    },
+    {
+        "function_name": "ZipFile.read(name,pwd=None)¶",
+        "all_parameters": "name,pwd=None",
+        "default_parameters": [
+            "pwd=None"
+        ]
+    },
+    {
+        "function_name": "ZipFile.write(filename,arcname=None,compress_type=None,compresslevel=None)¶",
+        "all_parameters": "filename,arcname=None,compress_type=None,compresslevel=None",
+        "default_parameters": [
+            "arcname=None",
+            "compress_type=None",
+            "compresslevel=None"
+        ]
+    },
+    {
+        "function_name": "ZipFile.writestr(zinfo_or_arcname,data,compress_type=None,compresslevel=None)¶",
+        "all_parameters": "zinfo_or_arcname,data,compress_type=None,compresslevel=None",
+        "default_parameters": [
+            "compress_type=None",
+            "compresslevel=None"
+        ]
+    },
+    {
+        "function_name": "ZipFile.mkdir(zinfo_or_directory,mode=511)¶",
+        "all_parameters": "zinfo_or_directory,mode=511",
+        "default_parameters": [
+            "mode=511"
+        ]
+    },
+    {
+        "function_name": "classzipfile.Path(root,at='')¶",
+        "all_parameters": "root,at=''",
+        "default_parameters": [
+            "at=''"
+        ]
+    },
+    {
+        "function_name": "Path.open(mode='r',*,pwd,**)¶",
+        "all_parameters": "mode='r',*,pwd,**",
+        "default_parameters": [
+            "mode='r'"
+        ]
+    },
+    {
+        "function_name": "classzipfile.PyZipFile(file,mode='r',compression=ZIP_STORED,allowZip64=True,optimize=-1)¶",
+        "all_parameters": "file,mode='r',compression=ZIP_STORED,allowZip64=True,optimize=-1",
+        "default_parameters": [
+            "mode='r'",
+            "compression=ZIP_STORED",
+            "allowZip64=True",
+            "optimize=-1"
+        ]
+    },
+    {
+        "function_name": "writepy(pathname,basename='',filterfunc=None)¶",
+        "all_parameters": "pathname,basename='',filterfunc=None",
+        "default_parameters": [
+            "basename=''",
+            "filterfunc=None"
+        ]
+    },
+    {
+        "function_name": "classmethodZipInfo.from_file(filename,arcname=None,*,strict_timestamps=True)¶",
+        "all_parameters": "filename,arcname=None,*,strict_timestamps=True",
+        "default_parameters": [
+            "arcname=None",
+            "strict_timestamps=True"
+        ]
+    },
+    {
+        "function_name": "find_spec(fullname,target=None)¶",
+        "all_parameters": "fullname,target=None",
+        "default_parameters": [
+            "target=None"
+        ]
+    },
+    {
+        "function_name": "zlib.compress(data,/,level=-1,wbits=MAX_WBITS)¶",
+        "all_parameters": "data,/,level=-1,wbits=MAX_WBITS",
+        "default_parameters": [
+            "level=-1",
+            "wbits=MAX_WBITS"
+        ]
+    },
+    {
+        "function_name": "zlib.compressobj(level=-1,method=DEFLATED,wbits=MAX_WBITS,memLevel=DEF_MEM_LEVEL,strategy=Z_DEFAULT_STRATEGY[,zdict])¶",
+        "all_parameters": "level=-1,method=DEFLATED,wbits=MAX_WBITS,memLevel=DEF_MEM_LEVEL,strategy=Z_DEFAULT_STRATEGY[,zdict]",
+        "default_parameters": [
+            "level=-1",
+            "method=DEFLATED",
+            "wbits=MAX_WBITS",
+            "memLevel=DEF_MEM_LEVEL",
+            "strategy=Z_DEFAULT_STRATEGY["
+        ]
+    },
+    {
+        "function_name": "zlib.decompress(data,/,wbits=MAX_WBITS,bufsize=DEF_BUF_SIZE)¶",
+        "all_parameters": "data,/,wbits=MAX_WBITS,bufsize=DEF_BUF_SIZE",
+        "default_parameters": [
+            "wbits=MAX_WBITS",
+            "bufsize=DEF_BUF_SIZE"
+        ]
+    },
+    {
+        "function_name": "zlib.decompressobj(wbits=MAX_WBITS[,zdict])¶",
+        "all_parameters": "wbits=MAX_WBITS[,zdict]",
+        "default_parameters": [
+            "wbits=MAX_WBITS["
+        ]
+    },
+    {
+        "function_name": "Decompress.decompress(data,max_length=0)¶",
+        "all_parameters": "data,max_length=0",
+        "default_parameters": [
+            "max_length=0"
+        ]
+    },
+    {
+        "function_name": "classmethodZoneInfo.from_file(fobj,/,key=None)¶",
+        "all_parameters": "fobj,/,key=None",
+        "default_parameters": [
+            "key=None"
+        ]
+    },
+    {
+        "function_name": "classmethodZoneInfo.clear_cache(*,only_keys=None)¶",
+        "all_parameters": "*,only_keys=None",
+        "default_parameters": [
+            "only_keys=None"
+        ]
+    },
+    {
+        "function_name": "zoneinfo.reset_tzpath(to=None)¶",
+        "all_parameters": "to=None",
+        "default_parameters": [
+            "to=None"
+        ]
+    }
+][
+    {
+        "function_name": "webbrowser.open(url,new=0,autoraise=True)¶",
+        "all_parameters": "url,new=0,autoraise=True",
+        "default_parameters": [
+            "new=0",
+            "autoraise=True"
+        ]
+    },
+    {
+        "function_name": "webbrowser.get(using=None)¶",
+        "all_parameters": "using=None",
+        "default_parameters": [
+            "using=None"
+        ]
+    },
+    {
+        "function_name": "webbrowser.register(name,constructor,instance=None,*,preferred=False)¶",
+        "all_parameters": "name,constructor,instance=None,*,preferred=False",
+        "default_parameters": [
+            "instance=None",
+            "preferred=False"
+        ]
+    },
+    {
+        "function_name": "controller.open(url,new=0,autoraise=True)¶",
+        "all_parameters": "url,new=0,autoraise=True",
+        "default_parameters": [
+            "new=0",
+            "autoraise=True"
+        ]
+    }
+]
