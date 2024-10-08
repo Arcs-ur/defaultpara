@@ -665,10 +665,10 @@
     },
     {
         "function_name": "classzipfile.ZipInfo(filename='NoName',date_time=(1980,1,1,0,0,0))¶",
-        "all_parameters": "filename='NoName',date_time=(1980,1,1,0,0,0",
+        "all_parameters": "filename='NoName',date_time=(1980,1,1,0,0,0)",
         "default_parameters": [
             "filename='NoName'",
-            "date_time=(1980"
+            "date_time=(1980,1,1,0,0,0)"
         ]
     },
     {
@@ -848,8 +848,7 @@
         "default_parameters": [
             "to=None"
         ]
-    }
-][
+    },
     {
         "function_name": "webbrowser.open(url,new=0,autoraise=True)¶",
         "all_parameters": "url,new=0,autoraise=True",
