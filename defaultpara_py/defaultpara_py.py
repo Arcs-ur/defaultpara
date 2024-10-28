@@ -36,7 +36,8 @@ def extract_parameters(func_string):
 #url="https://docs.python.org/3/library/zipimport.html#module-zipimport"
 #url = "https://docs.python.org/3/library/zlib.html#module-zlib"
 #url = "https://docs.python.org/3/library/zoneinfo.html#module-zoneinfo"
-url = "https://docs.python.org/3/library/webbrowser.html#module-webbrowser"
+#url = "https://docs.python.org/3/library/webbrowser.html#module-webbrowser"
+url = "https://numpy.org/doc/stable/reference/generated/numpy.empty.html#numpy.empty"
 response = requests.get(url)
 soup = BeautifulSoup(response.content, 'html.parser')
 
@@ -72,7 +73,7 @@ for function in functions:
         results.append(result)
 
 # 写入到 JSON 文件
-with open('builtin_module_misc.json', 'a', encoding='utf-8') as f:
+with open('numpytest.json', 'a', encoding='utf-8') as f:
     json.dump(results, f, ensure_ascii=False, indent=4)
 
 print("结果已写入文件中。")

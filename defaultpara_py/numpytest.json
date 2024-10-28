@@ -1,0 +1,12 @@
+[
+    {
+        "function_name": "numpy.empty(shape,dtype=float,order='C',*,device=None,like=None)#",
+        "all_parameters": "shape,dtype=float,order='C',*,device=None,like=None",
+        "default_parameters": [
+            "dtype=float",
+            "order='C'",
+            "device=None",
+            "like=None"
+        ]
+    }
+]
