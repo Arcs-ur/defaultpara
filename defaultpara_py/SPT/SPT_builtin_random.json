@@ -1,0 +1,77 @@
+{
+    "random.seed.a": {
+        "funcname": "random.seed",
+        "param": "a",
+        "value": null
+    },
+    "random.seed.version": {
+        "funcname": "random.seed",
+        "param": "version",
+        "value": 2
+    },
+    "random.choices.weights": {
+        "funcname": "random.choices",
+        "param": "weights",
+        "value": null
+    },
+    "random.choices.cum_weights": {
+        "funcname": "random.choices",
+        "param": "cum_weights",
+        "value": null
+    },
+    "random.choices.k": {
+        "funcname": "random.choices",
+        "param": "k",
+        "value": 1
+    },
+    "random.sample.counts": {
+        "funcname": "random.sample",
+        "param": "counts",
+        "value": null
+    },
+    "random.binomialvariate.n": {
+        "funcname": "random.binomialvariate",
+        "param": "n",
+        "value": 1
+    },
+    "random.binomialvariate.p": {
+        "funcname": "random.binomialvariate",
+        "param": "p",
+        "value": 0.5
+    },
+    "random.expovariate.lambd": {
+        "funcname": "random.expovariate",
+        "param": "lambd",
+        "value": 1.0
+    },
+    "random.gauss.mu": {
+        "funcname": "random.gauss",
+        "param": "mu",
+        "value": 0.0
+    },
+    "random.gauss.sigma": {
+        "funcname": "random.gauss",
+        "param": "sigma",
+        "value": 1.0
+    },
+    "random.normalvariate.mu": {
+        "funcname": "random.normalvariate",
+        "param": "mu",
+        "value": 0.0
+    },
+    "random.normalvariate.sigma": {
+        "funcname": "random.normalvariate",
+        "param": "sigma",
+        "value": 1.0
+    },
+    "seed.a": {
+        "funcname": "seed",
+        "param": "a",
+        "value": null
+    },
+    "seed.version": {
+        "funcname": "seed",
+        "param": "version",
+        "value": 2
+    }
+}

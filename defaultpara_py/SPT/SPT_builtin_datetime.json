@@ -1,0 +1,227 @@
+{
+    "classdatetime.timedelta.days": {
+        "funcname": "classdatetime.timedelta",
+        "param": "days",
+        "value": 0
+    },
+    "classdatetime.timedelta.seconds": {
+        "funcname": "classdatetime.timedelta",
+        "param": "seconds",
+        "value": 0
+    },
+    "classdatetime.timedelta.microseconds": {
+        "funcname": "classdatetime.timedelta",
+        "param": "microseconds",
+        "value": 0
+    },
+    "classdatetime.timedelta.milliseconds": {
+        "funcname": "classdatetime.timedelta",
+        "param": "milliseconds",
+        "value": 0
+    },
+    "classdatetime.timedelta.minutes": {
+        "funcname": "classdatetime.timedelta",
+        "param": "minutes",
+        "value": 0
+    },
+    "classdatetime.timedelta.hours": {
+        "funcname": "classdatetime.timedelta",
+        "param": "hours",
+        "value": 0
+    },
+    "classdatetime.timedelta.weeks": {
+        "funcname": "classdatetime.timedelta",
+        "param": "weeks",
+        "value": 0
+    },
+    "date.replace.year": {
+        "funcname": "date.replace",
+        "param": "year",
+        "value": "self.year"
+    },
+    "date.replace.month": {
+        "funcname": "date.replace",
+        "param": "month",
+        "value": "self.month"
+    },
+    "date.replace.day": {
+        "funcname": "date.replace",
+        "param": "day",
+        "value": "self.day"
+    },
+    "classdatetime.datetime.hour": {
+        "funcname": "classdatetime.datetime",
+        "param": "hour",
+        "value": 0
+    },
+    "classdatetime.datetime.minute": {
+        "funcname": "classdatetime.datetime",
+        "param": "minute",
+        "value": 0
+    },
+    "classdatetime.datetime.second": {
+        "funcname": "classdatetime.datetime",
+        "param": "second",
+        "value": 0
+    },
+    "classdatetime.datetime.microsecond": {
+        "funcname": "classdatetime.datetime",
+        "param": "microsecond",
+        "value": 0
+    },
+    "classdatetime.datetime.tzinfo": {
+        "funcname": "classdatetime.datetime",
+        "param": "tzinfo",
+        "value": null
+    },
+    "classdatetime.datetime.fold": {
+        "funcname": "classdatetime.datetime",
+        "param": "fold",
+        "value": 0
+    },
+    "classmethoddatetime.now.tz": {
+        "funcname": "classmethoddatetime.now",
+        "param": "tz",
+        "value": null
+    },
+    "classmethoddatetime.fromtimestamp.tz": {
+        "funcname": "classmethoddatetime.fromtimestamp",
+        "param": "tz",
+        "value": null
+    },
+    "classmethoddatetime.combine.tzinfo": {
+        "funcname": "classmethoddatetime.combine",
+        "param": "tzinfo",
+        "value": "time.tzinfo"
+    },
+    "datetime.replace.year": {
+        "funcname": "datetime.replace",
+        "param": "year",
+        "value": "self.year"
+    },
+    "datetime.replace.month": {
+        "funcname": "datetime.replace",
+        "param": "month",
+        "value": "self.month"
+    },
+    "datetime.replace.day": {
+        "funcname": "datetime.replace",
+        "param": "day",
+        "value": "self.day"
+    },
+    "datetime.replace.hour": {
+        "funcname": "datetime.replace",
+        "param": "hour",
+        "value": "self.hour"
+    },
+    "datetime.replace.minute": {
+        "funcname": "datetime.replace",
+        "param": "minute",
+        "value": "self.minute"
+    },
+    "datetime.replace.second": {
+        "funcname": "datetime.replace",
+        "param": "second",
+        "value": "self.second"
+    },
+    "datetime.replace.microsecond": {
+        "funcname": "datetime.replace",
+        "param": "microsecond",
+        "value": "self.microsecond"
+    },
+    "datetime.replace.tzinfo": {
+        "funcname": "datetime.replace",
+        "param": "tzinfo",
+        "value": "self.tzinfo"
+    },
+    "datetime.replace.fold": {
+        "funcname": "datetime.replace",
+        "param": "fold",
+        "value": 0
+    },
+    "datetime.astimezone.tz": {
+        "funcname": "datetime.astimezone",
+        "param": "tz",
+        "value": null
+    },
+    "datetime.isoformat.sep": {
+        "funcname": "datetime.isoformat",
+        "param": "sep",
+        "value": "T"
+    },
+    "datetime.isoformat.timespec": {
+        "funcname": "datetime.isoformat",
+        "param": "timespec",
+        "value": "auto"
+    },
+    "classdatetime.time.hour": {
+        "funcname": "classdatetime.time",
+        "param": "hour",
+        "value": 0
+    },
+    "classdatetime.time.minute": {
+        "funcname": "classdatetime.time",
+        "param": "minute",
+        "value": 0
+    },
+    "classdatetime.time.second": {
+        "funcname": "classdatetime.time",
+        "param": "second",
+        "value": 0
+    },
+    "classdatetime.time.microsecond": {
+        "funcname": "classdatetime.time",
+        "param": "microsecond",
+        "value": 0
+    },
+    "classdatetime.time.tzinfo": {
+        "funcname": "classdatetime.time",
+        "param": "tzinfo",
+        "value": null
+    },
+    "classdatetime.time.fold": {
+        "funcname": "classdatetime.time",
+        "param": "fold",
+        "value": 0
+    },
+    "time.replace.hour": {
+        "funcname": "time.replace",
+        "param": "hour",
+        "value": "self.hour"
+    },
+    "time.replace.minute": {
+        "funcname": "time.replace",
+        "param": "minute",
+        "value": "self.minute"
+    },
+    "time.replace.second": {
+        "funcname": "time.replace",
+        "param": "second",
+        "value": "self.second"
+    },
+    "time.replace.microsecond": {
+        "funcname": "time.replace",
+        "param": "microsecond",
+        "value": "self.microsecond"
+    },
+    "time.replace.tzinfo": {
+        "funcname": "time.replace",
+        "param": "tzinfo",
+        "value": "self.tzinfo"
+    },
+    "time.replace.fold": {
+        "funcname": "time.replace",
+        "param": "fold",
+        "value": 0
+    },
+    "time.isoformat.timespec": {
+        "funcname": "time.isoformat",
+        "param": "timespec",
+        "value": "auto"
+    },
+    "classdatetime.timezone.name": {
+        "funcname": "classdatetime.timezone",
+        "param": "name",
+        "value": null
+    }
+}

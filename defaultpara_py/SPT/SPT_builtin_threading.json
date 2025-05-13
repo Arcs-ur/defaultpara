@@ -1,0 +1,102 @@
+{
+    "classthreading.Thread.group": {
+        "funcname": "classthreading.Thread",
+        "param": "group",
+        "value": null
+    },
+    "classthreading.Thread.target": {
+        "funcname": "classthreading.Thread",
+        "param": "target",
+        "value": null
+    },
+    "classthreading.Thread.name": {
+        "funcname": "classthreading.Thread",
+        "param": "name",
+        "value": null
+    },
+    "classthreading.Thread.args": {
+        "funcname": "classthreading.Thread",
+        "param": "args",
+        "value": []
+    },
+    "classthreading.Thread.kwargs": {
+        "funcname": "classthreading.Thread",
+        "param": "kwargs",
+        "value": {}
+    },
+    "classthreading.Thread.daemon": {
+        "funcname": "classthreading.Thread",
+        "param": "daemon",
+        "value": null
+    },
+    "join.timeout": {
+        "funcname": "join",
+        "param": "timeout",
+        "value": null
+    },
+    "acquire.blocking": {
+        "funcname": "acquire",
+        "param": "blocking",
+        "value": true
+    },
+    "acquire.timeout": {
+        "funcname": "acquire",
+        "param": "timeout",
+        "value": null
+    },
+    "classthreading.Condition.lock": {
+        "funcname": "classthreading.Condition",
+        "param": "lock",
+        "value": null
+    },
+    "wait.timeout": {
+        "funcname": "wait",
+        "param": "timeout",
+        "value": null
+    },
+    "wait_for.timeout": {
+        "funcname": "wait_for",
+        "param": "timeout",
+        "value": null
+    },
+    "notify.n": {
+        "funcname": "notify",
+        "param": "n",
+        "value": 1
+    },
+    "classthreading.Semaphore.value": {
+        "funcname": "classthreading.Semaphore",
+        "param": "value",
+        "value": 1
+    },
+    "release.n": {
+        "funcname": "release",
+        "param": "n",
+        "value": 1
+    },
+    "classthreading.BoundedSemaphore.value": {
+        "funcname": "classthreading.BoundedSemaphore",
+        "param": "value",
+        "value": 1
+    },
+    "classthreading.Timer.args": {
+        "funcname": "classthreading.Timer",
+        "param": "args",
+        "value": null
+    },
+    "classthreading.Timer.kwargs": {
+        "funcname": "classthreading.Timer",
+        "param": "kwargs",
+        "value": null
+    },
+    "classthreading.Barrier.action": {
+        "funcname": "classthreading.Barrier",
+        "param": "action",
+        "value": null
+    },
+    "classthreading.Barrier.timeout": {
+        "funcname": "classthreading.Barrier",
+        "param": "timeout",
+        "value": null
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "os.path.realpath.strict": {
+        "funcname": "os.path.realpath",
+        "param": "strict",
+        "value": false
+    },
+    "os.path.relpath.start": {
+        "funcname": "os.path.relpath",
+        "param": "start",
+        "value": "os.curdir"
+    }
+}

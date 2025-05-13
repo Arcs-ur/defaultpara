@@ -1,0 +1,257 @@
+{
+    "classbytearray.source": {
+        "funcname": "classbytearray",
+        "param": "source",
+        "value": "b''"
+    },
+    "classbytes.source": {
+        "funcname": "classbytes",
+        "param": "source",
+        "value": "b''"
+    },
+    "compile.flags": {
+        "funcname": "compile",
+        "param": "flags",
+        "value": 0
+    },
+    "compile.dont_inherit": {
+        "funcname": "compile",
+        "param": "dont_inherit",
+        "value": false
+    },
+    "compile.optimize": {
+        "funcname": "compile",
+        "param": "optimize",
+        "value": -1
+    },
+    "classcomplex.number": {
+        "funcname": "classcomplex",
+        "param": "number",
+        "value": 0
+    },
+    "classcomplex.real": {
+        "funcname": "classcomplex",
+        "param": "real",
+        "value": 0
+    },
+    "classcomplex.imag": {
+        "funcname": "classcomplex",
+        "param": "imag",
+        "value": 0
+    },
+    "enumerate.start": {
+        "funcname": "enumerate",
+        "param": "start",
+        "value": 0
+    },
+    "eval.globals": {
+        "funcname": "eval",
+        "param": "globals",
+        "value": null
+    },
+    "eval.locals": {
+        "funcname": "eval",
+        "param": "locals",
+        "value": null
+    },
+    "exec.globals": {
+        "funcname": "exec",
+        "param": "globals",
+        "value": null
+    },
+    "exec.locals": {
+        "funcname": "exec",
+        "param": "locals",
+        "value": null
+    },
+    "exec.closure": {
+        "funcname": "exec",
+        "param": "closure",
+        "value": null
+    },
+    "classfloat.number": {
+        "funcname": "classfloat",
+        "param": "number",
+        "value": 0.0
+    },
+    "format.format_spec": {
+        "funcname": "format",
+        "param": "format_spec",
+        "value": ""
+    },
+    "classfrozenset.iterable": {
+        "funcname": "classfrozenset",
+        "param": "iterable",
+        "value": "set()"
+    },
+    "classint.number": {
+        "funcname": "classint",
+        "param": "number",
+        "value": 0
+    },
+    "classint.base": {
+        "funcname": "classint",
+        "param": "base",
+        "value": 10
+    },
+    "max.key": {
+        "funcname": "max",
+        "param": "key",
+        "value": null
+    },
+    "min.key": {
+        "funcname": "min",
+        "param": "key",
+        "value": null
+    },
+    "open.mode": {
+        "funcname": "open",
+        "param": "mode",
+        "value": "r"
+    },
+    "open.buffering": {
+        "funcname": "open",
+        "param": "buffering",
+        "value": -1
+    },
+    "open.encoding": {
+        "funcname": "open",
+        "param": "encoding",
+        "value": null
+    },
+    "open.errors": {
+        "funcname": "open",
+        "param": "errors",
+        "value": null
+    },
+    "open.newline": {
+        "funcname": "open",
+        "param": "newline",
+        "value": null
+    },
+    "open.closefd": {
+        "funcname": "open",
+        "param": "closefd",
+        "value": true
+    },
+    "open.opener": {
+        "funcname": "open",
+        "param": "opener",
+        "value": null
+    },
+    "pow.mod": {
+        "funcname": "pow",
+        "param": "mod",
+        "value": null
+    },
+    "print.sep": {
+        "funcname": "print",
+        "param": "sep",
+        "value": ""
+    },
+    "print.end": {
+        "funcname": "print",
+        "param": "end",
+        "value": "\n"
+    },
+    "print.file": {
+        "funcname": "print",
+        "param": "file",
+        "value": null
+    },
+    "print.flush": {
+        "funcname": "print",
+        "param": "flush",
+        "value": false
+    },
+    "classproperty.fget": {
+        "funcname": "classproperty",
+        "param": "fget",
+        "value": null
+    },
+    "classproperty.fset": {
+        "funcname": "classproperty",
+        "param": "fset",
+        "value": null
+    },
+    "classproperty.fdel": {
+        "funcname": "classproperty",
+        "param": "fdel",
+        "value": null
+    },
+    "classproperty.doc": {
+        "funcname": "classproperty",
+        "param": "doc",
+        "value": null
+    },
+    "class range.step": {
+        "funcname": "class range",
+        "param": "step",
+        "value": 1
+    },
+    "round.ndigits": {
+        "funcname": "round",
+        "param": "ndigits",
+        "value": null
+    },
+    "class slice.step": {
+        "funcname": "class slice",
+        "param": "step",
+        "value": null
+    },
+    "sorted.key": {
+        "funcname": "sorted",
+        "param": "key",
+        "value": null
+    },
+    "sorted.reverse": {
+        "funcname": "sorted",
+        "param": "reverse",
+        "value": false
+    },
+    "classstr.object": {
+        "funcname": "classstr",
+        "param": "object",
+        "value": ""
+    },
+    "classstr.encoding": {
+        "funcname": "classstr",
+        "param": "encoding",
+        "value": "utf-8"
+    },
+    "classstr.errors": {
+        "funcname": "classstr",
+        "param": "errors",
+        "value": "strict"
+    },
+    "sum.start": {
+        "funcname": "sum",
+        "param": "start",
+        "value": 0
+    },
+    "zip.strict": {
+        "funcname": "zip",
+        "param": "strict",
+        "value": false
+    },
+    "__import__.globals": {
+        "funcname": "__import__",
+        "param": "globals",
+        "value": null
+    },
+    "__import__.locals": {
+        "funcname": "__import__",
+        "param": "locals",
+        "value": null
+    },
+    "__import__.fromlist": {
+        "funcname": "__import__",
+        "param": "fromlist",
+        "value": []
+    },
+    "__import__.level": {
+        "funcname": "__import__",
+        "param": "level",
+        "value": 0
+    }
+}

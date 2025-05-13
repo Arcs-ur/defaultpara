@@ -1,0 +1,1354 @@
+{
+    "html.escape.quote": {
+        "funcname": "html.escape",
+        "param": "quote",
+        "value": true
+    },
+    "__call__.names": {
+        "funcname": "__call__",
+        "param": "names",
+        "value": null
+    },
+    "__call__.module": {
+        "funcname": "__call__",
+        "param": "module",
+        "value": null
+    },
+    "__call__.qualname": {
+        "funcname": "__call__",
+        "param": "qualname",
+        "value": null
+    },
+    "__call__.type": {
+        "funcname": "__call__",
+        "param": "type",
+        "value": null
+    },
+    "__call__.start": {
+        "funcname": "__call__",
+        "param": "start",
+        "value": 1
+    },
+    "__call__.boundary": {
+        "funcname": "__call__",
+        "param": "boundary",
+        "value": null
+    },
+    "classhtml.parser.HTMLParser.convert_charrefs": {
+        "funcname": "classhtml.parser.HTMLParser",
+        "param": "convert_charrefs",
+        "value": true
+    },
+    "classhttp.client.HTTPConnection.port": {
+        "funcname": "classhttp.client.HTTPConnection",
+        "param": "port",
+        "value": null
+    },
+    "classhttp.client.HTTPConnection.]source_address": {
+        "funcname": "classhttp.client.HTTPConnection",
+        "param": "]source_address",
+        "value": null
+    },
+    "classhttp.client.HTTPConnection.blocksize": {
+        "funcname": "classhttp.client.HTTPConnection",
+        "param": "blocksize",
+        "value": 8192
+    },
+    "classhttp.client.HTTPSConnection.port": {
+        "funcname": "classhttp.client.HTTPSConnection",
+        "param": "port",
+        "value": null
+    },
+    "classhttp.client.HTTPSConnection.source_address": {
+        "funcname": "classhttp.client.HTTPSConnection",
+        "param": "source_address",
+        "value": null
+    },
+    "classhttp.client.HTTPSConnection.context": {
+        "funcname": "classhttp.client.HTTPSConnection",
+        "param": "context",
+        "value": null
+    },
+    "classhttp.client.HTTPSConnection.blocksize": {
+        "funcname": "classhttp.client.HTTPSConnection",
+        "param": "blocksize",
+        "value": 8192
+    },
+    "classhttp.client.HTTPResponse.debuglevel": {
+        "funcname": "classhttp.client.HTTPResponse",
+        "param": "debuglevel",
+        "value": 0
+    },
+    "classhttp.client.HTTPResponse.method": {
+        "funcname": "classhttp.client.HTTPResponse",
+        "param": "method",
+        "value": null
+    },
+    "classhttp.client.HTTPResponse.url": {
+        "funcname": "classhttp.client.HTTPResponse",
+        "param": "url",
+        "value": null
+    },
+    "HTTPConnection.request.body": {
+        "funcname": "HTTPConnection.request",
+        "param": "body",
+        "value": null
+    },
+    "HTTPConnection.request.headers": {
+        "funcname": "HTTPConnection.request",
+        "param": "headers",
+        "value": {}
+    },
+    "HTTPConnection.request.encode_chunked": {
+        "funcname": "HTTPConnection.request",
+        "param": "encode_chunked",
+        "value": false
+    },
+    "HTTPConnection.set_tunnel.port": {
+        "funcname": "HTTPConnection.set_tunnel",
+        "param": "port",
+        "value": null
+    },
+    "HTTPConnection.set_tunnel.headers": {
+        "funcname": "HTTPConnection.set_tunnel",
+        "param": "headers",
+        "value": null
+    },
+    "HTTPConnection.putrequest.skip_host": {
+        "funcname": "HTTPConnection.putrequest",
+        "param": "skip_host",
+        "value": false
+    },
+    "HTTPConnection.putrequest.skip_accept_encoding": {
+        "funcname": "HTTPConnection.putrequest",
+        "param": "skip_accept_encoding",
+        "value": false
+    },
+    "HTTPConnection.endheaders.message_body": {
+        "funcname": "HTTPConnection.endheaders",
+        "param": "message_body",
+        "value": null
+    },
+    "HTTPConnection.endheaders.encode_chunked": {
+        "funcname": "HTTPConnection.endheaders",
+        "param": "encode_chunked",
+        "value": false
+    },
+    "HTTPResponse.getheader.default": {
+        "funcname": "HTTPResponse.getheader",
+        "param": "default",
+        "value": null
+    },
+    "classhttp.cookiejar.CookieJar.policy": {
+        "funcname": "classhttp.cookiejar.CookieJar",
+        "param": "policy",
+        "value": null
+    },
+    "classhttp.cookiejar.FileCookieJar.filename": {
+        "funcname": "classhttp.cookiejar.FileCookieJar",
+        "param": "filename",
+        "value": null
+    },
+    "classhttp.cookiejar.FileCookieJar.delayload": {
+        "funcname": "classhttp.cookiejar.FileCookieJar",
+        "param": "delayload",
+        "value": null
+    },
+    "classhttp.cookiejar.FileCookieJar.policy": {
+        "funcname": "classhttp.cookiejar.FileCookieJar",
+        "param": "policy",
+        "value": null
+    },
+    "classhttp.cookiejar.DefaultCookiePolicy.blocked_domains": {
+        "funcname": "classhttp.cookiejar.DefaultCookiePolicy",
+        "param": "blocked_domains",
+        "value": null
+    },
+    "classhttp.cookiejar.DefaultCookiePolicy.allowed_domains": {
+        "funcname": "classhttp.cookiejar.DefaultCookiePolicy",
+        "param": "allowed_domains",
+        "value": null
+    },
+    "classhttp.cookiejar.DefaultCookiePolicy.netscape": {
+        "funcname": "classhttp.cookiejar.DefaultCookiePolicy",
+        "param": "netscape",
+        "value": true
+    },
+    "classhttp.cookiejar.DefaultCookiePolicy.rfc2965": {
+        "funcname": "classhttp.cookiejar.DefaultCookiePolicy",
+        "param": "rfc2965",
+        "value": false
+    },
+    "classhttp.cookiejar.DefaultCookiePolicy.rfc2109_as_netscape": {
+        "funcname": "classhttp.cookiejar.DefaultCookiePolicy",
+        "param": "rfc2109_as_netscape",
+        "value": null
+    },
+    "classhttp.cookiejar.DefaultCookiePolicy.hide_cookie2": {
+        "funcname": "classhttp.cookiejar.DefaultCookiePolicy",
+        "param": "hide_cookie2",
+        "value": false
+    },
+    "classhttp.cookiejar.DefaultCookiePolicy.strict_domain": {
+        "funcname": "classhttp.cookiejar.DefaultCookiePolicy",
+        "param": "strict_domain",
+        "value": false
+    },
+    "classhttp.cookiejar.DefaultCookiePolicy.strict_rfc2965_unverifiable": {
+        "funcname": "classhttp.cookiejar.DefaultCookiePolicy",
+        "param": "strict_rfc2965_unverifiable",
+        "value": true
+    },
+    "classhttp.cookiejar.DefaultCookiePolicy.strict_ns_unverifiable": {
+        "funcname": "classhttp.cookiejar.DefaultCookiePolicy",
+        "param": "strict_ns_unverifiable",
+        "value": false
+    },
+    "classhttp.cookiejar.DefaultCookiePolicy.strict_ns_domain": {
+        "funcname": "classhttp.cookiejar.DefaultCookiePolicy",
+        "param": "strict_ns_domain",
+        "value": "DefaultCookiePolicy.DomainLiberal"
+    },
+    "classhttp.cookiejar.DefaultCookiePolicy.strict_ns_set_initial_dollar": {
+        "funcname": "classhttp.cookiejar.DefaultCookiePolicy",
+        "param": "strict_ns_set_initial_dollar",
+        "value": false
+    },
+    "classhttp.cookiejar.DefaultCookiePolicy.strict_ns_set_path": {
+        "funcname": "classhttp.cookiejar.DefaultCookiePolicy",
+        "param": "strict_ns_set_path",
+        "value": false
+    },
+    "classhttp.cookiejar.DefaultCookiePolicy.secure_protocols": {
+        "funcname": "classhttp.cookiejar.DefaultCookiePolicy",
+        "param": "secure_protocols",
+        "value": "('https'"
+    },
+    "FileCookieJar.save.filename": {
+        "funcname": "FileCookieJar.save",
+        "param": "filename",
+        "value": null
+    },
+    "FileCookieJar.save.ignore_discard": {
+        "funcname": "FileCookieJar.save",
+        "param": "ignore_discard",
+        "value": false
+    },
+    "FileCookieJar.save.ignore_expires": {
+        "funcname": "FileCookieJar.save",
+        "param": "ignore_expires",
+        "value": false
+    },
+    "FileCookieJar.load.filename": {
+        "funcname": "FileCookieJar.load",
+        "param": "filename",
+        "value": null
+    },
+    "FileCookieJar.load.ignore_discard": {
+        "funcname": "FileCookieJar.load",
+        "param": "ignore_discard",
+        "value": false
+    },
+    "FileCookieJar.load.ignore_expires": {
+        "funcname": "FileCookieJar.load",
+        "param": "ignore_expires",
+        "value": false
+    },
+    "FileCookieJar.revert.filename": {
+        "funcname": "FileCookieJar.revert",
+        "param": "filename",
+        "value": null
+    },
+    "FileCookieJar.revert.ignore_discard": {
+        "funcname": "FileCookieJar.revert",
+        "param": "ignore_discard",
+        "value": false
+    },
+    "FileCookieJar.revert.ignore_expires": {
+        "funcname": "FileCookieJar.revert",
+        "param": "ignore_expires",
+        "value": false
+    },
+    "classhttp.cookiejar.MozillaCookieJar.filename": {
+        "funcname": "classhttp.cookiejar.MozillaCookieJar",
+        "param": "filename",
+        "value": null
+    },
+    "classhttp.cookiejar.MozillaCookieJar.delayload": {
+        "funcname": "classhttp.cookiejar.MozillaCookieJar",
+        "param": "delayload",
+        "value": null
+    },
+    "classhttp.cookiejar.MozillaCookieJar.policy": {
+        "funcname": "classhttp.cookiejar.MozillaCookieJar",
+        "param": "policy",
+        "value": null
+    },
+    "classhttp.cookiejar.LWPCookieJar.filename": {
+        "funcname": "classhttp.cookiejar.LWPCookieJar",
+        "param": "filename",
+        "value": null
+    },
+    "classhttp.cookiejar.LWPCookieJar.delayload": {
+        "funcname": "classhttp.cookiejar.LWPCookieJar",
+        "param": "delayload",
+        "value": null
+    },
+    "classhttp.cookiejar.LWPCookieJar.policy": {
+        "funcname": "classhttp.cookiejar.LWPCookieJar",
+        "param": "policy",
+        "value": null
+    },
+    "Cookie.get_nonstandard_attr.default": {
+        "funcname": "Cookie.get_nonstandard_attr",
+        "param": "default",
+        "value": null
+    },
+    "Cookie.is_expired.now": {
+        "funcname": "Cookie.is_expired",
+        "param": "now",
+        "value": null
+    },
+    "BaseCookie.output.attrs": {
+        "funcname": "BaseCookie.output",
+        "param": "attrs",
+        "value": null
+    },
+    "BaseCookie.output.header": {
+        "funcname": "BaseCookie.output",
+        "param": "header",
+        "value": "Set-Cookie:"
+    },
+    "BaseCookie.output.sep": {
+        "funcname": "BaseCookie.output",
+        "param": "sep",
+        "value": "\r\n"
+    },
+    "BaseCookie.js_output.attrs": {
+        "funcname": "BaseCookie.js_output",
+        "param": "attrs",
+        "value": null
+    },
+    "Morsel.output.attrs": {
+        "funcname": "Morsel.output",
+        "param": "attrs",
+        "value": null
+    },
+    "Morsel.output.header": {
+        "funcname": "Morsel.output",
+        "param": "header",
+        "value": "Set-Cookie:"
+    },
+    "Morsel.js_output.attrs": {
+        "funcname": "Morsel.js_output",
+        "param": "attrs",
+        "value": null
+    },
+    "Morsel.OutputString.attrs": {
+        "funcname": "Morsel.OutputString",
+        "param": "attrs",
+        "value": null
+    },
+    "Morsel.setdefault.value": {
+        "funcname": "Morsel.setdefault",
+        "param": "value",
+        "value": null
+    },
+    "send_error.message": {
+        "funcname": "send_error",
+        "param": "message",
+        "value": null
+    },
+    "send_error.explain": {
+        "funcname": "send_error",
+        "param": "explain",
+        "value": null
+    },
+    "send_response.message": {
+        "funcname": "send_response",
+        "param": "message",
+        "value": null
+    },
+    "send_response_only.message": {
+        "funcname": "send_response_only",
+        "param": "message",
+        "value": null
+    },
+    "log_request.code": {
+        "funcname": "log_request",
+        "param": "code",
+        "value": "-"
+    },
+    "log_request.size": {
+        "funcname": "log_request",
+        "param": "size",
+        "value": "-"
+    },
+    "date_time_string.timestamp": {
+        "funcname": "date_time_string",
+        "param": "timestamp",
+        "value": null
+    },
+    "classhttp.server.SimpleHTTPRequestHandler.directory": {
+        "funcname": "classhttp.server.SimpleHTTPRequestHandler",
+        "param": "directory",
+        "value": null
+    },
+    "json.dump.skipkeys": {
+        "funcname": "json.dump",
+        "param": "skipkeys",
+        "value": false
+    },
+    "json.dump.ensure_ascii": {
+        "funcname": "json.dump",
+        "param": "ensure_ascii",
+        "value": true
+    },
+    "json.dump.check_circular": {
+        "funcname": "json.dump",
+        "param": "check_circular",
+        "value": true
+    },
+    "json.dump.allow_nan": {
+        "funcname": "json.dump",
+        "param": "allow_nan",
+        "value": true
+    },
+    "json.dump.cls": {
+        "funcname": "json.dump",
+        "param": "cls",
+        "value": null
+    },
+    "json.dump.indent": {
+        "funcname": "json.dump",
+        "param": "indent",
+        "value": null
+    },
+    "json.dump.separators": {
+        "funcname": "json.dump",
+        "param": "separators",
+        "value": null
+    },
+    "json.dump.default": {
+        "funcname": "json.dump",
+        "param": "default",
+        "value": null
+    },
+    "json.dump.sort_keys": {
+        "funcname": "json.dump",
+        "param": "sort_keys",
+        "value": false
+    },
+    "json.dumps.skipkeys": {
+        "funcname": "json.dumps",
+        "param": "skipkeys",
+        "value": false
+    },
+    "json.dumps.ensure_ascii": {
+        "funcname": "json.dumps",
+        "param": "ensure_ascii",
+        "value": true
+    },
+    "json.dumps.check_circular": {
+        "funcname": "json.dumps",
+        "param": "check_circular",
+        "value": true
+    },
+    "json.dumps.allow_nan": {
+        "funcname": "json.dumps",
+        "param": "allow_nan",
+        "value": true
+    },
+    "json.dumps.cls": {
+        "funcname": "json.dumps",
+        "param": "cls",
+        "value": null
+    },
+    "json.dumps.indent": {
+        "funcname": "json.dumps",
+        "param": "indent",
+        "value": null
+    },
+    "json.dumps.separators": {
+        "funcname": "json.dumps",
+        "param": "separators",
+        "value": null
+    },
+    "json.dumps.default": {
+        "funcname": "json.dumps",
+        "param": "default",
+        "value": null
+    },
+    "json.dumps.sort_keys": {
+        "funcname": "json.dumps",
+        "param": "sort_keys",
+        "value": false
+    },
+    "json.load.cls": {
+        "funcname": "json.load",
+        "param": "cls",
+        "value": null
+    },
+    "json.load.object_hook": {
+        "funcname": "json.load",
+        "param": "object_hook",
+        "value": null
+    },
+    "json.load.parse_float": {
+        "funcname": "json.load",
+        "param": "parse_float",
+        "value": null
+    },
+    "json.load.parse_int": {
+        "funcname": "json.load",
+        "param": "parse_int",
+        "value": null
+    },
+    "json.load.parse_constant": {
+        "funcname": "json.load",
+        "param": "parse_constant",
+        "value": null
+    },
+    "json.load.object_pairs_hook": {
+        "funcname": "json.load",
+        "param": "object_pairs_hook",
+        "value": null
+    },
+    "json.loads.cls": {
+        "funcname": "json.loads",
+        "param": "cls",
+        "value": null
+    },
+    "json.loads.object_hook": {
+        "funcname": "json.loads",
+        "param": "object_hook",
+        "value": null
+    },
+    "json.loads.parse_float": {
+        "funcname": "json.loads",
+        "param": "parse_float",
+        "value": null
+    },
+    "json.loads.parse_int": {
+        "funcname": "json.loads",
+        "param": "parse_int",
+        "value": null
+    },
+    "json.loads.parse_constant": {
+        "funcname": "json.loads",
+        "param": "parse_constant",
+        "value": null
+    },
+    "json.loads.object_pairs_hook": {
+        "funcname": "json.loads",
+        "param": "object_pairs_hook",
+        "value": null
+    },
+    "classjson.JSONDecoder.object_hook": {
+        "funcname": "classjson.JSONDecoder",
+        "param": "object_hook",
+        "value": null
+    },
+    "classjson.JSONDecoder.parse_float": {
+        "funcname": "classjson.JSONDecoder",
+        "param": "parse_float",
+        "value": null
+    },
+    "classjson.JSONDecoder.parse_int": {
+        "funcname": "classjson.JSONDecoder",
+        "param": "parse_int",
+        "value": null
+    },
+    "classjson.JSONDecoder.parse_constant": {
+        "funcname": "classjson.JSONDecoder",
+        "param": "parse_constant",
+        "value": null
+    },
+    "classjson.JSONDecoder.strict": {
+        "funcname": "classjson.JSONDecoder",
+        "param": "strict",
+        "value": true
+    },
+    "classjson.JSONDecoder.object_pairs_hook": {
+        "funcname": "classjson.JSONDecoder",
+        "param": "object_pairs_hook",
+        "value": null
+    },
+    "classjson.JSONEncoder.skipkeys": {
+        "funcname": "classjson.JSONEncoder",
+        "param": "skipkeys",
+        "value": false
+    },
+    "classjson.JSONEncoder.ensure_ascii": {
+        "funcname": "classjson.JSONEncoder",
+        "param": "ensure_ascii",
+        "value": true
+    },
+    "classjson.JSONEncoder.check_circular": {
+        "funcname": "classjson.JSONEncoder",
+        "param": "check_circular",
+        "value": true
+    },
+    "classjson.JSONEncoder.allow_nan": {
+        "funcname": "classjson.JSONEncoder",
+        "param": "allow_nan",
+        "value": true
+    },
+    "classjson.JSONEncoder.sort_keys": {
+        "funcname": "classjson.JSONEncoder",
+        "param": "sort_keys",
+        "value": false
+    },
+    "classjson.JSONEncoder.indent": {
+        "funcname": "classjson.JSONEncoder",
+        "param": "indent",
+        "value": null
+    },
+    "classjson.JSONEncoder.separators": {
+        "funcname": "classjson.JSONEncoder",
+        "param": "separators",
+        "value": null
+    },
+    "classjson.JSONEncoder.default": {
+        "funcname": "classjson.JSONEncoder",
+        "param": "default",
+        "value": null
+    },
+    "logging.config.fileConfig.defaults": {
+        "funcname": "logging.config.fileConfig",
+        "param": "defaults",
+        "value": null
+    },
+    "logging.config.fileConfig.disable_existing_loggers": {
+        "funcname": "logging.config.fileConfig",
+        "param": "disable_existing_loggers",
+        "value": true
+    },
+    "logging.config.fileConfig.encoding": {
+        "funcname": "logging.config.fileConfig",
+        "param": "encoding",
+        "value": null
+    },
+    "logging.config.listen.port": {
+        "funcname": "logging.config.listen",
+        "param": "port",
+        "value": "DEFAULT_LOGGING_CONFIG_PORT"
+    },
+    "logging.config.listen.verify": {
+        "funcname": "logging.config.listen",
+        "param": "verify",
+        "value": null
+    },
+    "classlogging.StreamHandler.stream": {
+        "funcname": "classlogging.StreamHandler",
+        "param": "stream",
+        "value": null
+    },
+    "classlogging.FileHandler.mode": {
+        "funcname": "classlogging.FileHandler",
+        "param": "mode",
+        "value": "a"
+    },
+    "classlogging.FileHandler.encoding": {
+        "funcname": "classlogging.FileHandler",
+        "param": "encoding",
+        "value": null
+    },
+    "classlogging.FileHandler.delay": {
+        "funcname": "classlogging.FileHandler",
+        "param": "delay",
+        "value": false
+    },
+    "classlogging.FileHandler.errors": {
+        "funcname": "classlogging.FileHandler",
+        "param": "errors",
+        "value": null
+    },
+    "classlogging.handlers.WatchedFileHandler.mode": {
+        "funcname": "classlogging.handlers.WatchedFileHandler",
+        "param": "mode",
+        "value": "a"
+    },
+    "classlogging.handlers.WatchedFileHandler.encoding": {
+        "funcname": "classlogging.handlers.WatchedFileHandler",
+        "param": "encoding",
+        "value": null
+    },
+    "classlogging.handlers.WatchedFileHandler.delay": {
+        "funcname": "classlogging.handlers.WatchedFileHandler",
+        "param": "delay",
+        "value": false
+    },
+    "classlogging.handlers.WatchedFileHandler.errors": {
+        "funcname": "classlogging.handlers.WatchedFileHandler",
+        "param": "errors",
+        "value": null
+    },
+    "classlogging.handlers.BaseRotatingHandler.encoding": {
+        "funcname": "classlogging.handlers.BaseRotatingHandler",
+        "param": "encoding",
+        "value": null
+    },
+    "classlogging.handlers.BaseRotatingHandler.delay": {
+        "funcname": "classlogging.handlers.BaseRotatingHandler",
+        "param": "delay",
+        "value": false
+    },
+    "classlogging.handlers.BaseRotatingHandler.errors": {
+        "funcname": "classlogging.handlers.BaseRotatingHandler",
+        "param": "errors",
+        "value": null
+    },
+    "classlogging.handlers.RotatingFileHandler.mode": {
+        "funcname": "classlogging.handlers.RotatingFileHandler",
+        "param": "mode",
+        "value": "a"
+    },
+    "classlogging.handlers.RotatingFileHandler.maxBytes": {
+        "funcname": "classlogging.handlers.RotatingFileHandler",
+        "param": "maxBytes",
+        "value": 0
+    },
+    "classlogging.handlers.RotatingFileHandler.backupCount": {
+        "funcname": "classlogging.handlers.RotatingFileHandler",
+        "param": "backupCount",
+        "value": 0
+    },
+    "classlogging.handlers.RotatingFileHandler.encoding": {
+        "funcname": "classlogging.handlers.RotatingFileHandler",
+        "param": "encoding",
+        "value": null
+    },
+    "classlogging.handlers.RotatingFileHandler.delay": {
+        "funcname": "classlogging.handlers.RotatingFileHandler",
+        "param": "delay",
+        "value": false
+    },
+    "classlogging.handlers.RotatingFileHandler.errors": {
+        "funcname": "classlogging.handlers.RotatingFileHandler",
+        "param": "errors",
+        "value": null
+    },
+    "classlogging.handlers.TimedRotatingFileHandler.when": {
+        "funcname": "classlogging.handlers.TimedRotatingFileHandler",
+        "param": "when",
+        "value": "h"
+    },
+    "classlogging.handlers.TimedRotatingFileHandler.interval": {
+        "funcname": "classlogging.handlers.TimedRotatingFileHandler",
+        "param": "interval",
+        "value": 1
+    },
+    "classlogging.handlers.TimedRotatingFileHandler.backupCount": {
+        "funcname": "classlogging.handlers.TimedRotatingFileHandler",
+        "param": "backupCount",
+        "value": 0
+    },
+    "classlogging.handlers.TimedRotatingFileHandler.encoding": {
+        "funcname": "classlogging.handlers.TimedRotatingFileHandler",
+        "param": "encoding",
+        "value": null
+    },
+    "classlogging.handlers.TimedRotatingFileHandler.delay": {
+        "funcname": "classlogging.handlers.TimedRotatingFileHandler",
+        "param": "delay",
+        "value": false
+    },
+    "classlogging.handlers.TimedRotatingFileHandler.utc": {
+        "funcname": "classlogging.handlers.TimedRotatingFileHandler",
+        "param": "utc",
+        "value": false
+    },
+    "classlogging.handlers.TimedRotatingFileHandler.atTime": {
+        "funcname": "classlogging.handlers.TimedRotatingFileHandler",
+        "param": "atTime",
+        "value": null
+    },
+    "classlogging.handlers.TimedRotatingFileHandler.errors": {
+        "funcname": "classlogging.handlers.TimedRotatingFileHandler",
+        "param": "errors",
+        "value": null
+    },
+    "classlogging.handlers.SysLogHandler.address": {
+        "funcname": "classlogging.handlers.SysLogHandler",
+        "param": "address",
+        "value": "('localhost'"
+    },
+    "classlogging.handlers.NTEventLogHandler.dllname": {
+        "funcname": "classlogging.handlers.NTEventLogHandler",
+        "param": "dllname",
+        "value": null
+    },
+    "classlogging.handlers.NTEventLogHandler.logtype": {
+        "funcname": "classlogging.handlers.NTEventLogHandler",
+        "param": "logtype",
+        "value": "Application"
+    },
+    "classlogging.handlers.SMTPHandler.credentials": {
+        "funcname": "classlogging.handlers.SMTPHandler",
+        "param": "credentials",
+        "value": null
+    },
+    "classlogging.handlers.SMTPHandler.secure": {
+        "funcname": "classlogging.handlers.SMTPHandler",
+        "param": "secure",
+        "value": null
+    },
+    "classlogging.handlers.SMTPHandler.timeout": {
+        "funcname": "classlogging.handlers.SMTPHandler",
+        "param": "timeout",
+        "value": 1.0
+    },
+    "classlogging.handlers.MemoryHandler.flushLevel": {
+        "funcname": "classlogging.handlers.MemoryHandler",
+        "param": "flushLevel",
+        "value": "ERROR"
+    },
+    "classlogging.handlers.MemoryHandler.target": {
+        "funcname": "classlogging.handlers.MemoryHandler",
+        "param": "target",
+        "value": null
+    },
+    "classlogging.handlers.MemoryHandler.flushOnClose": {
+        "funcname": "classlogging.handlers.MemoryHandler",
+        "param": "flushOnClose",
+        "value": true
+    },
+    "classlogging.handlers.HTTPHandler.method": {
+        "funcname": "classlogging.handlers.HTTPHandler",
+        "param": "method",
+        "value": "GET"
+    },
+    "classlogging.handlers.HTTPHandler.secure": {
+        "funcname": "classlogging.handlers.HTTPHandler",
+        "param": "secure",
+        "value": false
+    },
+    "classlogging.handlers.HTTPHandler.credentials": {
+        "funcname": "classlogging.handlers.HTTPHandler",
+        "param": "credentials",
+        "value": null
+    },
+    "classlogging.handlers.HTTPHandler.context": {
+        "funcname": "classlogging.handlers.HTTPHandler",
+        "param": "context",
+        "value": null
+    },
+    "classlogging.handlers.QueueListener.respect_handler_level": {
+        "funcname": "classlogging.handlers.QueueListener",
+        "param": "respect_handler_level",
+        "value": false
+    },
+    "findCaller.stack_info": {
+        "funcname": "findCaller",
+        "param": "stack_info",
+        "value": false
+    },
+    "findCaller.stacklevel": {
+        "funcname": "findCaller",
+        "param": "stacklevel",
+        "value": 1
+    },
+    "makeRecord.func": {
+        "funcname": "makeRecord",
+        "param": "func",
+        "value": null
+    },
+    "makeRecord.extra": {
+        "funcname": "makeRecord",
+        "param": "extra",
+        "value": null
+    },
+    "makeRecord.sinfo": {
+        "funcname": "makeRecord",
+        "param": "sinfo",
+        "value": null
+    },
+    "__init__.level": {
+        "funcname": "__init__",
+        "param": "level",
+        "value": "NOTSET"
+    },
+    "classlogging.Formatter.fmt": {
+        "funcname": "classlogging.Formatter",
+        "param": "fmt",
+        "value": null
+    },
+    "classlogging.Formatter.datefmt": {
+        "funcname": "classlogging.Formatter",
+        "param": "datefmt",
+        "value": null
+    },
+    "classlogging.Formatter.style": {
+        "funcname": "classlogging.Formatter",
+        "param": "style",
+        "value": "%"
+    },
+    "classlogging.Formatter.validate": {
+        "funcname": "classlogging.Formatter",
+        "param": "validate",
+        "value": true
+    },
+    "classlogging.Formatter.defaults": {
+        "funcname": "classlogging.Formatter",
+        "param": "defaults",
+        "value": null
+    },
+    "formatTime.datefmt": {
+        "funcname": "formatTime",
+        "param": "datefmt",
+        "value": null
+    },
+    "classlogging.BufferingFormatter.linefmt": {
+        "funcname": "classlogging.BufferingFormatter",
+        "param": "linefmt",
+        "value": null
+    },
+    "classlogging.Filter.name": {
+        "funcname": "classlogging.Filter",
+        "param": "name",
+        "value": ""
+    },
+    "classlogging.LogRecord.func": {
+        "funcname": "classlogging.LogRecord",
+        "param": "func",
+        "value": null
+    },
+    "classlogging.LogRecord.sinfo": {
+        "funcname": "classlogging.LogRecord",
+        "param": "sinfo",
+        "value": null
+    },
+    "classlogging.LoggerAdapter.merge_extra": {
+        "funcname": "classlogging.LoggerAdapter",
+        "param": "merge_extra",
+        "value": false
+    },
+    "logging.getLogger.name": {
+        "funcname": "logging.getLogger",
+        "param": "name",
+        "value": null
+    },
+    "logging.disable.level": {
+        "funcname": "logging.disable",
+        "param": "level",
+        "value": "CRITICAL"
+    },
+    "substitute.mapping": {
+        "funcname": "substitute",
+        "param": "mapping",
+        "value": {}
+    },
+    "safe_substitute.mapping": {
+        "funcname": "safe_substitute",
+        "param": "mapping",
+        "value": {}
+    },
+    "string.capwords.sep": {
+        "funcname": "string.capwords",
+        "param": "sep",
+        "value": null
+    },
+    "site.addsitedir.known_paths": {
+        "funcname": "site.addsitedir",
+        "param": "known_paths",
+        "value": null
+    },
+    "classsocket.socket.family": {
+        "funcname": "classsocket.socket",
+        "param": "family",
+        "value": "AF_INET"
+    },
+    "classsocket.socket.type": {
+        "funcname": "classsocket.socket",
+        "param": "type",
+        "value": "SOCK_STREAM"
+    },
+    "classsocket.socket.proto": {
+        "funcname": "classsocket.socket",
+        "param": "proto",
+        "value": 0
+    },
+    "classsocket.socket.fileno": {
+        "funcname": "classsocket.socket",
+        "param": "fileno",
+        "value": null
+    },
+    "socket.create_connection.timeout": {
+        "funcname": "socket.create_connection",
+        "param": "timeout",
+        "value": "GLOBAL_DEFAULT"
+    },
+    "socket.create_connection.source_address": {
+        "funcname": "socket.create_connection",
+        "param": "source_address",
+        "value": null
+    },
+    "socket.create_connection.all_errors": {
+        "funcname": "socket.create_connection",
+        "param": "all_errors",
+        "value": false
+    },
+    "socket.create_server.family": {
+        "funcname": "socket.create_server",
+        "param": "family",
+        "value": "AF_INET"
+    },
+    "socket.create_server.backlog": {
+        "funcname": "socket.create_server",
+        "param": "backlog",
+        "value": null
+    },
+    "socket.create_server.reuse_port": {
+        "funcname": "socket.create_server",
+        "param": "reuse_port",
+        "value": false
+    },
+    "socket.create_server.dualstack_ipv6": {
+        "funcname": "socket.create_server",
+        "param": "dualstack_ipv6",
+        "value": false
+    },
+    "socket.fromfd.proto": {
+        "funcname": "socket.fromfd",
+        "param": "proto",
+        "value": 0
+    },
+    "socket.getaddrinfo.family": {
+        "funcname": "socket.getaddrinfo",
+        "param": "family",
+        "value": 0
+    },
+    "socket.getaddrinfo.type": {
+        "funcname": "socket.getaddrinfo",
+        "param": "type",
+        "value": 0
+    },
+    "socket.getaddrinfo.proto": {
+        "funcname": "socket.getaddrinfo",
+        "param": "proto",
+        "value": 0
+    },
+    "socket.getaddrinfo.flags": {
+        "funcname": "socket.getaddrinfo",
+        "param": "flags",
+        "value": 0
+    },
+    "socket.makefile.mode": {
+        "funcname": "socket.makefile",
+        "param": "mode",
+        "value": "r"
+    },
+    "socket.makefile.buffering": {
+        "funcname": "socket.makefile",
+        "param": "buffering",
+        "value": null
+    },
+    "socket.makefile.encoding": {
+        "funcname": "socket.makefile",
+        "param": "encoding",
+        "value": null
+    },
+    "socket.makefile.errors": {
+        "funcname": "socket.makefile",
+        "param": "errors",
+        "value": null
+    },
+    "socket.makefile.newline": {
+        "funcname": "socket.makefile",
+        "param": "newline",
+        "value": null
+    },
+    "socket.sendfile.offset": {
+        "funcname": "socket.sendfile",
+        "param": "offset",
+        "value": 0
+    },
+    "socket.sendfile.count": {
+        "funcname": "socket.sendfile",
+        "param": "count",
+        "value": null
+    },
+    "classzipfile.ZipInfo.filename": {
+        "funcname": "classzipfile.ZipInfo",
+        "param": "filename",
+        "value": "NoName"
+    },
+    "classzipfile.ZipInfo.date_time": {
+        "funcname": "classzipfile.ZipInfo",
+        "param": "date_time",
+        "value": [
+            1980,
+            1,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "classzipfile.ZipFile.mode": {
+        "funcname": "classzipfile.ZipFile",
+        "param": "mode",
+        "value": "r"
+    },
+    "classzipfile.ZipFile.compression": {
+        "funcname": "classzipfile.ZipFile",
+        "param": "compression",
+        "value": "ZIP_STORED"
+    },
+    "classzipfile.ZipFile.allowZip64": {
+        "funcname": "classzipfile.ZipFile",
+        "param": "allowZip64",
+        "value": true
+    },
+    "classzipfile.ZipFile.compresslevel": {
+        "funcname": "classzipfile.ZipFile",
+        "param": "compresslevel",
+        "value": null
+    },
+    "classzipfile.ZipFile.strict_timestamps": {
+        "funcname": "classzipfile.ZipFile",
+        "param": "strict_timestamps",
+        "value": true
+    },
+    "classzipfile.ZipFile.metadata_encoding": {
+        "funcname": "classzipfile.ZipFile",
+        "param": "metadata_encoding",
+        "value": null
+    },
+    "ZipFile.open.mode": {
+        "funcname": "ZipFile.open",
+        "param": "mode",
+        "value": "r"
+    },
+    "ZipFile.open.pwd": {
+        "funcname": "ZipFile.open",
+        "param": "pwd",
+        "value": null
+    },
+    "ZipFile.open.force_zip64": {
+        "funcname": "ZipFile.open",
+        "param": "force_zip64",
+        "value": false
+    },
+    "ZipFile.extract.path": {
+        "funcname": "ZipFile.extract",
+        "param": "path",
+        "value": null
+    },
+    "ZipFile.extract.pwd": {
+        "funcname": "ZipFile.extract",
+        "param": "pwd",
+        "value": null
+    },
+    "ZipFile.extractall.path": {
+        "funcname": "ZipFile.extractall",
+        "param": "path",
+        "value": null
+    },
+    "ZipFile.extractall.members": {
+        "funcname": "ZipFile.extractall",
+        "param": "members",
+        "value": null
+    },
+    "ZipFile.extractall.pwd": {
+        "funcname": "ZipFile.extractall",
+        "param": "pwd",
+        "value": null
+    },
+    "ZipFile.read.pwd": {
+        "funcname": "ZipFile.read",
+        "param": "pwd",
+        "value": null
+    },
+    "ZipFile.write.arcname": {
+        "funcname": "ZipFile.write",
+        "param": "arcname",
+        "value": null
+    },
+    "ZipFile.write.compress_type": {
+        "funcname": "ZipFile.write",
+        "param": "compress_type",
+        "value": null
+    },
+    "ZipFile.write.compresslevel": {
+        "funcname": "ZipFile.write",
+        "param": "compresslevel",
+        "value": null
+    },
+    "ZipFile.writestr.compress_type": {
+        "funcname": "ZipFile.writestr",
+        "param": "compress_type",
+        "value": null
+    },
+    "ZipFile.writestr.compresslevel": {
+        "funcname": "ZipFile.writestr",
+        "param": "compresslevel",
+        "value": null
+    },
+    "ZipFile.mkdir.mode": {
+        "funcname": "ZipFile.mkdir",
+        "param": "mode",
+        "value": 511
+    },
+    "classzipfile.Path.at": {
+        "funcname": "classzipfile.Path",
+        "param": "at",
+        "value": ""
+    },
+    "Path.open.mode": {
+        "funcname": "Path.open",
+        "param": "mode",
+        "value": "r"
+    },
+    "classzipfile.PyZipFile.mode": {
+        "funcname": "classzipfile.PyZipFile",
+        "param": "mode",
+        "value": "r"
+    },
+    "classzipfile.PyZipFile.compression": {
+        "funcname": "classzipfile.PyZipFile",
+        "param": "compression",
+        "value": "ZIP_STORED"
+    },
+    "classzipfile.PyZipFile.allowZip64": {
+        "funcname": "classzipfile.PyZipFile",
+        "param": "allowZip64",
+        "value": true
+    },
+    "classzipfile.PyZipFile.optimize": {
+        "funcname": "classzipfile.PyZipFile",
+        "param": "optimize",
+        "value": -1
+    },
+    "writepy.basename": {
+        "funcname": "writepy",
+        "param": "basename",
+        "value": ""
+    },
+    "writepy.filterfunc": {
+        "funcname": "writepy",
+        "param": "filterfunc",
+        "value": null
+    },
+    "classmethodZipInfo.from_file.arcname": {
+        "funcname": "classmethodZipInfo.from_file",
+        "param": "arcname",
+        "value": null
+    },
+    "classmethodZipInfo.from_file.strict_timestamps": {
+        "funcname": "classmethodZipInfo.from_file",
+        "param": "strict_timestamps",
+        "value": true
+    },
+    "find_spec.target": {
+        "funcname": "find_spec",
+        "param": "target",
+        "value": null
+    },
+    "zlib.compress.level": {
+        "funcname": "zlib.compress",
+        "param": "level",
+        "value": -1
+    },
+    "zlib.compress.wbits": {
+        "funcname": "zlib.compress",
+        "param": "wbits",
+        "value": "MAX_WBITS"
+    },
+    "zlib.compressobj.level": {
+        "funcname": "zlib.compressobj",
+        "param": "level",
+        "value": -1
+    },
+    "zlib.compressobj.method": {
+        "funcname": "zlib.compressobj",
+        "param": "method",
+        "value": "DEFLATED"
+    },
+    "zlib.compressobj.wbits": {
+        "funcname": "zlib.compressobj",
+        "param": "wbits",
+        "value": "MAX_WBITS"
+    },
+    "zlib.compressobj.memLevel": {
+        "funcname": "zlib.compressobj",
+        "param": "memLevel",
+        "value": "DEF_MEM_LEVEL"
+    },
+    "zlib.compressobj.strategy": {
+        "funcname": "zlib.compressobj",
+        "param": "strategy",
+        "value": "Z_DEFAULT_STRATEGY["
+    },
+    "zlib.decompress.wbits": {
+        "funcname": "zlib.decompress",
+        "param": "wbits",
+        "value": "MAX_WBITS"
+    },
+    "zlib.decompress.bufsize": {
+        "funcname": "zlib.decompress",
+        "param": "bufsize",
+        "value": "DEF_BUF_SIZE"
+    },
+    "zlib.decompressobj.wbits": {
+        "funcname": "zlib.decompressobj",
+        "param": "wbits",
+        "value": "MAX_WBITS["
+    },
+    "Decompress.decompress.max_length": {
+        "funcname": "Decompress.decompress",
+        "param": "max_length",
+        "value": 0
+    },
+    "classmethodZoneInfo.from_file.key": {
+        "funcname": "classmethodZoneInfo.from_file",
+        "param": "key",
+        "value": null
+    },
+    "classmethodZoneInfo.clear_cache.only_keys": {
+        "funcname": "classmethodZoneInfo.clear_cache",
+        "param": "only_keys",
+        "value": null
+    },
+    "zoneinfo.reset_tzpath.to": {
+        "funcname": "zoneinfo.reset_tzpath",
+        "param": "to",
+        "value": null
+    },
+    "webbrowser.open.new": {
+        "funcname": "webbrowser.open",
+        "param": "new",
+        "value": 0
+    },
+    "webbrowser.open.autoraise": {
+        "funcname": "webbrowser.open",
+        "param": "autoraise",
+        "value": true
+    },
+    "webbrowser.get.using": {
+        "funcname": "webbrowser.get",
+        "param": "using",
+        "value": null
+    },
+    "webbrowser.register.instance": {
+        "funcname": "webbrowser.register",
+        "param": "instance",
+        "value": null
+    },
+    "webbrowser.register.preferred": {
+        "funcname": "webbrowser.register",
+        "param": "preferred",
+        "value": false
+    },
+    "controller.open.new": {
+        "funcname": "controller.open",
+        "param": "new",
+        "value": 0
+    },
+    "controller.open.autoraise": {
+        "funcname": "controller.open",
+        "param": "autoraise",
+        "value": true
+    }
+}

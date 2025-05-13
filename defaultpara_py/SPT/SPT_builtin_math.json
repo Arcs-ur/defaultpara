@@ -1,0 +1,27 @@
+{
+    "math.isclose.rel_tol": {
+        "funcname": "math.isclose",
+        "param": "rel_tol",
+        "value": 1e-09
+    },
+    "math.isclose.abs_tol": {
+        "funcname": "math.isclose",
+        "param": "abs_tol",
+        "value": 0.0
+    },
+    "math.nextafter.steps": {
+        "funcname": "math.nextafter",
+        "param": "steps",
+        "value": 1
+    },
+    "math.perm.k": {
+        "funcname": "math.perm",
+        "param": "k",
+        "value": null
+    },
+    "math.prod.start": {
+        "funcname": "math.prod",
+        "param": "start",
+        "value": 1
+    }
+}
